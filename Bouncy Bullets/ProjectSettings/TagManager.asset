@@ -7,6 +7,7 @@ TagManager:
   - GameManager
   - Bullet
   - Ball
+  - Powerup
   layers:
   - Default
   - TransparentFX
@@ -19,7 +20,7 @@ TagManager:
   - Player
   - Turret
   - Bullet
-  - 
+  - Post Processing
   - 
   - 
   - 

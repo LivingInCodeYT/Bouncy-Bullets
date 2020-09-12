@@ -8,10 +8,12 @@ public class CameraScript : MonoBehaviour {
         camAnim = GetComponent<Animator>();
     }
     public void Shake(int amount) {
-        int index = 1;
-        while (index <= amount) {
-		    camAnim.SetTrigger("Shake");
-            index++;
+        if (PlayerPrefs.GetInt("effectsEnabled", 1) == 1) {
+            int index = 1;
+            while (index <= amount) {
+		        camAnim.SetTrigger("Shake");
+                index++;
+            }
         }
     }
 }

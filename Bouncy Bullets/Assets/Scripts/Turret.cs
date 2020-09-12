@@ -11,13 +11,14 @@ public class Turret : MonoBehaviour {
     public float range = 1f;
     public float bulletSpeed;
     public float fireEvery = 2f;
+    public float random = 5f;
     public float seekEvery = 0.5f;
     public float offset = 90f;
 
     void Start() {
         source = GetComponent<AudioSource>();
         InvokeRepeating("Seek", 0f, seekEvery);
-        InvokeRepeating("Shoot", fireEvery, fireEvery);
+        InvokeRepeating("Shoot", fireEvery, fireEvery + Random.Range(-random, random));
     }
     void Update() {
         Aim();
@@ -48,6 +49,6 @@ public class Turret : MonoBehaviour {
         GameObject b = Instantiate(bullet, transform.position, transform.rotation);
         b.GetComponent<Rigidbody2D>().velocity = (-dir * bulletSpeed);
         source.Play();
-        //FindObjectOfType<CameraScript>().Shake(1);
-    }
+        FindObjectOfType<CameraScript>().Shake(1);
+    }   
 }
