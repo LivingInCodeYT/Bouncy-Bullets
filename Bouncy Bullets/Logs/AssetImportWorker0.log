@@ -12,77 +12,133 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56465
+56838
 Successfully changed project path to: /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
 /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 173.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 122.56 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a19 (8037ac78137e)
 [Subsystems] Discovering subsystems at path /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Assets
 GfxDevice: creating device client; threaded=0
-2020-09-12 19:15:40.455 Unity[7647:298196] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
-2020-09-12 19:15:40.455 Unity[7647:298196] Metal devices available: 1
-2020-09-12 19:15:40.455 Unity[7647:298196] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
-2020-09-12 19:15:40.456 Unity[7647:298196] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-12 19:50:11.611 Unity[8165:312846] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-12 19:50:11.611 Unity[8165:312846] Metal devices available: 1
+2020-09-12 19:50:11.611 Unity[8165:312846] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-12 19:50:11.615 Unity[8165:312846] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
 Initialize mono
 Mono path[0] = '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/Managed'
 Mono path[1] = '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56647
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56165
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.015467 seconds.
+Registered in 0.016542 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59.77 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 69.83 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.119 seconds
+- Completed reload, in  6.940 seconds
 Registering precompiled user dll's ...
-Registered in 0.214889 seconds.
+Registered in 0.886702 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 98.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 83.82 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.782 seconds
+- Completed reload, in  1.787 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1918 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 153.8 MB.
-System memory in use after: 153.8 MB.
+System memory in use before: 153.9 MB.
+System memory in use after: 153.9 MB.
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 3.394957 ms (FindLiveObjects: 0.596385 ms CreateObjectMapping: 0.133620 ms MarkObjects: 2.484676 ms  DeleteObjects: 0.179162 ms)
+Total: 20.494600 ms (FindLiveObjects: 2.837845 ms CreateObjectMapping: 0.181947 ms MarkObjects: 16.859640 ms  DeleteObjects: 0.613698 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/Kill All Bullets Powerup.prefab
-  artifactKey: Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Kill All Bullets Powerup.prefab using Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39f426833b51bdc099d62a579228918') in 1.137345 seconds
-  Import took 1.147909 seconds .
+  path: Assets/Graphics/topdown-shooter
+  artifactKey: Guid(3da03b82725e34962b39dd0e73819e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter using Guid(3da03b82725e34962b39dd0e73819e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1580f69204e733066f50d445f459a484') in 0.015817 seconds
+  Import took 0.024099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Graphics/topdown-shooter/PNG
+  artifactKey: Guid(d0157e3c39e8044ba8903c98caa8c064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/PNG using Guid(d0157e3c39e8044ba8903c98caa8c064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6fc7bdd6c362ab75f7055e7a4a02ae') in 0.008459 seconds
+  Import took 0.015170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Graphics/topdown-shooter/Spritesheet
+  artifactKey: Guid(d0f1b1917267a407baace4e0694d6485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/Spritesheet using Guid(d0f1b1917267a407baace4e0694d6485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a19b6c6d144a96a3ab2d83eeca04ccb') in 0.007574 seconds
+  Import took 0.014194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Graphics/topdown-shooter/Tilesheet
+  artifactKey: Guid(34ac4e75cb62d45c5b302b4159977184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/Tilesheet using Guid(34ac4e75cb62d45c5b302b4159977184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e1abd9fbdae5917a0e80d886e6ebbe') in 0.004310 seconds
+  Import took 0.013913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.342108 seconds.
+  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
+  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665da49e140199d7aa55991feb98a442') in 1.231110 seconds
+  Import took 1.247312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.533268 seconds.
+  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
+  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9070642b1201b86f19a3c45926f78c1') in 0.029346 seconds
+  Import took 0.043783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.299754 seconds.
+  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
+  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87022aa5f79d129a15bdd98f8d2ba297') in 1.908906 seconds
+  Import took 1.919354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.232422 seconds.
+  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
+  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d00f93e03cc8ea89e1cb40eafc8721e') in 1.759046 seconds
+  Import took 1.772681 seconds .
 
 ========================================================================
 Received Prepare
@@ -92,50 +148,266 @@ Registering precompiled unity dll's ...
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001024 seconds.
+Registered in 0.017036 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 80.18 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 85.15 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.763 seconds
+- Completed reload, in  1.881 seconds
 Registering precompiled user dll's ...
-Registered in 0.223792 seconds.
+Registered in 0.998944 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.477 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.436 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 124.7 MB.
-System memory in use after: 124.7 MB.
+System memory in use before: 127.0 MB.
+System memory in use after: 127.0 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
-Total: 4.095808 ms (FindLiveObjects: 0.467702 ms CreateObjectMapping: 0.107914 ms MarkObjects: 3.372625 ms  DeleteObjects: 0.145612 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 4.046396 ms (FindLiveObjects: 0.691312 ms CreateObjectMapping: 0.113040 ms MarkObjects: 3.119389 ms  DeleteObjects: 0.121601 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 84.328213 seconds.
-  path: Assets/Prefabs/Powerup Collect.prefab
-  artifactKey: Guid(dab7fc6a080d24aea884732d26be0f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Powerup Collect.prefab using Guid(dab7fc6a080d24aea884732d26be0f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c19551ce219ed0ce10ce68cdc062028') in 0.075049 seconds
-  Import took 0.085343 seconds .
+  Time since last request: 4449.613290 seconds.
+  path: Packages/com.unity.2d.animation
+  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa2c993df6d6504be42b753d7d3b0af') in 0.094375 seconds
+  Import took 0.155103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.559571 seconds.
+  path: Assets/Tilemaps/Shooter Assets.prefab
+  artifactKey: Guid(a14b21a2c4a164f46bb406d926b3ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Assets.prefab using Guid(a14b21a2c4a164f46bb406d926b3ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e2985ab0577e3f0e2b69d03c1bec12') in 0.990320 seconds
+  Import took 1.007577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.433482 seconds.
+  path: Assets/Tilemaps/Shooter Tiles
+  artifactKey: Guid(2e965e6bc12e1453c888fd9dfc9315d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles using Guid(2e965e6bc12e1453c888fd9dfc9315d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bac473a7aee8d0cf55100718f8cf0a') in 0.003247 seconds
+  Import took 0.013490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.576208 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete.asset
+  artifactKey: Guid(bb020b9beda0044d6b08ae4a1892fb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete.asset using Guid(bb020b9beda0044d6b08ae4a1892fb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23332ffb53f4a4c6828a1bfda93888e5') in 3.372485 seconds
+  Import took 3.383340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000894 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_3.asset
+  artifactKey: Guid(d757a9cd76b114beeba8c548feedb298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_3.asset using Guid(d757a9cd76b114beeba8c548feedb298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76fe5bee39b9847deaaaff3b532e37d') in 0.184507 seconds
+  Import took 0.195135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_1.asset
+  artifactKey: Guid(32735dd9ddc154e06b2e728150424eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_1.asset using Guid(32735dd9ddc154e06b2e728150424eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2607edec0a768f7c321b1f489127a582') in 0.016045 seconds
+  Import took 0.021753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_2.asset
+  artifactKey: Guid(0a1d287e337074308a2e8bfbfc8aa471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_2.asset using Guid(0a1d287e337074308a2e8bfbfc8aa471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39de56bb0a9c789009812e831fab9d87') in 0.022186 seconds
+  Import took 0.029623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset
+  artifactKey: Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset using Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5541f8aedbac089a08053038be3c10b') in 0.024956 seconds
+  Import took 0.035066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_5.asset
+  artifactKey: Guid(504cb61c5a0734a2ba83f04c4c4dbb7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_5.asset using Guid(504cb61c5a0734a2ba83f04c4c4dbb7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a1e4293a50a344320679299bdbd855') in 0.024033 seconds
+  Import took 0.031441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_4.asset
+  artifactKey: Guid(a7efd01191679486a96320df817fc6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_4.asset using Guid(a7efd01191679486a96320df817fc6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd238cad2742c7cc7ecb4e43961a80533') in 0.022525 seconds
+  Import took 0.036450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset
+  artifactKey: Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset using Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5541f8aedbac089a08053038be3c10b') in 0.013629 seconds
+  Import took 0.023790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_7.asset
+  artifactKey: Guid(8ce78caca73e6416abbc6c830341f609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_7.asset using Guid(8ce78caca73e6416abbc6c830341f609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d2ce36be11aacd65bda61d721a519e') in 0.017607 seconds
+  Import took 0.026385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_0.asset
+  artifactKey: Guid(b9e22e73db92543128460ed5ca34e1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_0.asset using Guid(b9e22e73db92543128460ed5ca34e1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c646e72bf6e6ae97130d834a92f8a3df') in 0.025776 seconds
+  Import took 0.037520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_9.asset
+  artifactKey: Guid(6daa8f8e93da44989b21dbf192664532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_9.asset using Guid(6daa8f8e93da44989b21dbf192664532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8017cf245b017c083cd1026843e73f9e') in 0.019417 seconds
+  Import took 0.025381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022849 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset
+  artifactKey: Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset using Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e26a893c03d4883ae5806e85657011') in 0.029753 seconds
+  Import took 0.037239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031477 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset
+  artifactKey: Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset using Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e26a893c03d4883ae5806e85657011') in 0.023638 seconds
+  Import took 0.033692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082562 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_13.asset
+  artifactKey: Guid(5d1a92637b23d4f4796630a02cd72be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_13.asset using Guid(5d1a92637b23d4f4796630a02cd72be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b99bfef781eb31523c734cd8346985') in 0.026119 seconds
+  Import took 0.038179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084149 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_14.asset
+  artifactKey: Guid(ab7e1ca6ada2a4f848f9dc6300e34075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_14.asset using Guid(ab7e1ca6ada2a4f848f9dc6300e34075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116c0c5fa2c0cc26143dbbb328ac0f86') in 0.028367 seconds
+  Import took 0.038274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017416 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_15.asset
+  artifactKey: Guid(98d2ff3206b794d548df1e4362737eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_15.asset using Guid(98d2ff3206b794d548df1e4362737eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e26b0c8ef81b92b0001a06d47db525') in 0.022727 seconds
+  Import took 0.029524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036589 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset
+  artifactKey: Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset using Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf35b8f3412a7e678bde399a472fb6d') in 0.023425 seconds
+  Import took 0.037360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002885 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset
+  artifactKey: Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset using Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf35b8f3412a7e678bde399a472fb6d') in 0.020555 seconds
+  Import took 0.030598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089783 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset
+  artifactKey: Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset using Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9425b5431ea4a6a8b8542a0ea849c04') in 0.023459 seconds
+  Import took 0.036589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002857 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset
+  artifactKey: Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset using Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9425b5431ea4a6a8b8542a0ea849c04') in 0.015553 seconds
+  Import took 0.022319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090511 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_19.asset
+  artifactKey: Guid(1748b161b781d4b60b244fe6f79db3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_19.asset using Guid(1748b161b781d4b60b244fe6f79db3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec66bb84895e3a1e441308e8132b989c') in 0.024826 seconds
+  Import took 0.040908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041635 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset
+  artifactKey: Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset using Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61126cf358d69de9c2363dffaa7d9228') in 0.030987 seconds
+  Import took 0.039721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001280 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset
+  artifactKey: Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset using Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61126cf358d69de9c2363dffaa7d9228') in 0.018640 seconds
+  Import took 0.025530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089833 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset
+  artifactKey: Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset using Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce90e6637c0f2b687093b9b1e57effb') in 0.034762 seconds
+  Import took 0.044338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000919 seconds.
+  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset
+  artifactKey: Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset using Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce90e6637c0f2b687093b9b1e57effb') in 0.017236 seconds
+  Import took 0.023395 seconds .
 
 ========================================================================
 Received Prepare
@@ -145,230 +417,42 @@ Registering precompiled unity dll's ...
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007184 seconds.
+Registered in 0.003390 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 77.20 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 153.79 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.793 seconds
+- Completed reload, in  2.122 seconds
 Registering precompiled user dll's ...
-Registered in 0.139768 seconds.
+Registered in 0.387206 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.443 seconds
+- Completed reload, in  1.475 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 126.6 MB.
-System memory in use after: 126.6 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
-Total: 3.155117 ms (FindLiveObjects: 0.678197 ms CreateObjectMapping: 0.167047 ms MarkObjects: 2.181602 ms  DeleteObjects: 0.127263 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004090 seconds.
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 84.45 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.776 seconds
-Registering precompiled user dll's ...
-Registered in 0.427790 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.657 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.5 MB.
-System memory in use after: 128.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
-Total: 2.944810 ms (FindLiveObjects: 0.597446 ms CreateObjectMapping: 0.165317 ms MarkObjects: 2.039537 ms  DeleteObjects: 0.141175 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001267 seconds.
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 77.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.593 seconds
-Registering precompiled user dll's ...
-Registered in 0.125487 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.983 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 130.4 MB.
-System memory in use after: 130.3 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2376.
-Total: 2.863935 ms (FindLiveObjects: 0.513001 ms CreateObjectMapping: 0.103257 ms MarkObjects: 2.114554 ms  DeleteObjects: 0.131782 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.014825 seconds.
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 325.80 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.110 seconds
-Registering precompiled user dll's ...
-Registered in 0.275441 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.692 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 132.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2380.
-Total: 9.045321 ms (FindLiveObjects: 2.544837 ms CreateObjectMapping: 1.108495 ms MarkObjects: 4.825035 ms  DeleteObjects: 0.565241 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012104 seconds.
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 70.81 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.677 seconds
-Registering precompiled user dll's ...
-Registered in 0.388698 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.012 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.0 MB.
-System memory in use after: 134.0 MB.
+System memory in use before: 137.6 MB.
+System memory in use after: 137.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
-Total: 3.811598 ms (FindLiveObjects: 0.893568 ms CreateObjectMapping: 0.177038 ms MarkObjects: 2.563323 ms  DeleteObjects: 0.173843 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 248.169913 seconds.
-  path: Assets/Prefabs/Kill All Bullets Powerup.prefab
-  artifactKey: Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Kill All Bullets Powerup.prefab using Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0404703d8c4275694abf8da5277ed8e7') in 0.167539 seconds
-  Import took 0.177484 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2371.
+Total: 4.500529 ms (FindLiveObjects: 0.878445 ms CreateObjectMapping: 0.264685 ms MarkObjects: 3.172577 ms  DeleteObjects: 0.182970 ms)
 
 ========================================================================
 Received Prepare
@@ -378,58 +462,42 @@ Registering precompiled unity dll's ...
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012056 seconds.
+Registered in 0.001017 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 66.54 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 81.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.989 seconds
+- Completed reload, in  1.552 seconds
 Registering precompiled user dll's ...
-Registered in 0.498471 seconds.
+Registered in 0.135304 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.703 seconds
+- Completed reload, in  1.457 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 135.9 MB.
-System memory in use after: 135.9 MB.
+System memory in use before: 139.6 MB.
+System memory in use after: 139.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2389.
-Total: 3.652878 ms (FindLiveObjects: 0.482460 ms CreateObjectMapping: 0.106907 ms MarkObjects: 2.851300 ms  DeleteObjects: 0.210975 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.191393 seconds.
-  path: Assets/Prefabs/Kill All Bullets Powerup.prefab
-  artifactKey: Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Kill All Bullets Powerup.prefab using Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b43fa59be99f1c0b282bcf67fe3a955') in 0.780374 seconds
-  Import took 0.815417 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.098323 seconds.
-  path: Assets/Prefabs/Kill All Bullets Powerup.prefab
-  artifactKey: Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Kill All Bullets Powerup.prefab using Guid(ed141c1812e9c4a5da5265dd0137c150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b43fa59be99f1c0b282bcf67fe3a955') in 0.035560 seconds
-  Import took 0.051350 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 2.634352 ms (FindLiveObjects: 0.531094 ms CreateObjectMapping: 0.099749 ms MarkObjects: 1.875879 ms  DeleteObjects: 0.126273 ms)
 
 ========================================================================
 Received Prepare
@@ -439,85 +507,40 @@ Registering precompiled unity dll's ...
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.020038 seconds.
+Registered in 0.001616 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 83.04 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 93.82 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.243 seconds
+- Completed reload, in  2.471 seconds
 Registering precompiled user dll's ...
-Registered in 0.120528 seconds.
+Registered in 0.208669 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.743 seconds
+- Completed reload, in  1.630 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 137.8 MB.
-System memory in use after: 137.9 MB.
+System memory in use before: 141.5 MB.
+System memory in use after: 141.5 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2394.
-Total: 4.952027 ms (FindLiveObjects: 0.834112 ms CreateObjectMapping: 0.327775 ms MarkObjects: 3.567988 ms  DeleteObjects: 0.220898 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001764 seconds.
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 67.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.965 seconds
-Registering precompiled user dll's ...
-Registered in 0.239140 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.073 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.7 MB.
-System memory in use after: 139.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2398.
-Total: 6.847115 ms (FindLiveObjects: 0.721517 ms CreateObjectMapping: 0.193694 ms MarkObjects: 5.753680 ms  DeleteObjects: 0.175557 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2379.
+Total: 13.487000 ms (FindLiveObjects: 3.713392 ms CreateObjectMapping: 0.362553 ms MarkObjects: 9.251242 ms  DeleteObjects: 0.153543 ms)
 

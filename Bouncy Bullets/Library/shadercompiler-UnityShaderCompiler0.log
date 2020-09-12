@@ -1,5 +1,2 @@
 Base path: '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents', plugins path '/Users/Cubby/Documents/2020.2.0a19/PlaybackEngines'
 Cmd: initializeCompiler
-Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
-
-Quitting shader compiler process
