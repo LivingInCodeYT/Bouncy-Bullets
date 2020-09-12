@@ -100,6 +100,7 @@ MonoBehaviour:
   range: 2.38
   bulletSpeed: 1
   fireEvery: 2
+  random: 5
   seekEvery: 0.5
   offset: 90
 --- !u!82 &3853287911173752749
@@ -111,7 +112,7 @@ AudioSource:
   m_GameObject: {fileID: 7381304684329730247}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -2365383791159082372, guid: 50e9af4bcbfed489ea4bc5269a85248c, type: 2}
+  OutputAudioMixerGroup: {fileID: -1766688022098637774, guid: 50e9af4bcbfed489ea4bc5269a85248c, type: 2}
   m_audioClip: {fileID: 8300000, guid: a9dcf0acd20564392a71141efcc87733, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1

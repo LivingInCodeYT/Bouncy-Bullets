@@ -1,21 +1,16 @@
 using UnityEngine;
 
-[RequireComponent(typeof(AudioSource))]
 public class KillAllBullets : MonoBehaviour {
-    private AudioSource source;
-    public float speed = 50f;
+    public float rotSpeed = 5f;
+    public GameObject collectEffect;
 
-    void Start() {
-        source = GetComponent<AudioSource>();
-    }
     void FixedUpdate() {
-        transform.Rotate(new Vector3(0f, 0f, 90f), speed);
+        transform.Rotate(new Vector3(0f, 0f, 90f), rotSpeed);
     }
     void OnTriggerEnter2D(Collider2D other) {
         if (other.CompareTag("Player")) {
-            source.Play();
-            Debug.Log("Played");
             DestroyAllBullets();
+            Instantiate(collectEffect, transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
     }
