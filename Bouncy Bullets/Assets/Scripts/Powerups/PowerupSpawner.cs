@@ -19,7 +19,7 @@ public class PowerupSpawner : MonoBehaviour {
             float x = Random.Range(minX, maxX);
             float y = Random.Range(minY, maxY);
             Vector2 pos = new Vector2(x, y);
-            Instantiate(powerups[rand], pos, Quaternion.identity);
+            GameObject spawned = Instantiate(powerups[rand], pos, Quaternion.identity);
         } else {
             return;
         }

@@ -1,7 +1,7 @@
 Using pre-set license
 
  COMMAND LINE ARGUMENTS:
-/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/MacOS/Unity
+/Applications/2020.2.0a19/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
@@ -12,535 +12,1023 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56838
+49274
 Successfully changed project path to: /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
 /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 122.56 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 157.92 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a19 (8037ac78137e)
-[Subsystems] Discovering subsystems at path /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Applications/2020.2.0a19/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Assets
 GfxDevice: creating device client; threaded=0
-2020-09-12 19:50:11.611 Unity[8165:312846] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
-2020-09-12 19:50:11.611 Unity[8165:312846] Metal devices available: 1
-2020-09-12 19:50:11.611 Unity[8165:312846] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
-2020-09-12 19:50:11.615 Unity[8165:312846] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-21 22:34:43.942 Unity[837:11996] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-21 22:34:43.942 Unity[837:11996] Metal devices available: 1
+2020-09-21 22:34:43.942 Unity[837:11996] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-21 22:34:43.947 Unity[837:11996] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
-Mono path[0] = '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/Managed'
-Mono path[1] = '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56165
+Mono path[0] = '/Applications/2020.2.0a19/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.2.0a19/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.2.0a19/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56837
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.016542 seconds.
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014734 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 69.83 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 93.38 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.940 seconds
+- Completed reload, in  3.324 seconds
 Registering precompiled user dll's ...
-Registered in 0.886702 seconds.
+Registered in 1.336910 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 83.82 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 104.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.787 seconds
+- Completed reload, in  1.706 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/Tools/UnityShaderCompiler
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/2020.2.0a19/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
-Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1918 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 153.9 MB.
-System memory in use after: 153.9 MB.
+Unloading 2829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.8 MB.
+System memory in use after: 197.9 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 20.494600 ms (FindLiveObjects: 2.837845 ms CreateObjectMapping: 0.181947 ms MarkObjects: 16.859640 ms  DeleteObjects: 0.613698 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Graphics/topdown-shooter
-  artifactKey: Guid(3da03b82725e34962b39dd0e73819e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter using Guid(3da03b82725e34962b39dd0e73819e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1580f69204e733066f50d445f459a484') in 0.015817 seconds
-  Import took 0.024099 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3265.
+Total: 6.849552 ms (FindLiveObjects: 0.983575 ms CreateObjectMapping: 0.301528 ms MarkObjects: 5.392036 ms  DeleteObjects: 0.171081 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000319 seconds.
-  path: Assets/Graphics/topdown-shooter/PNG
-  artifactKey: Guid(d0157e3c39e8044ba8903c98caa8c064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/PNG using Guid(d0157e3c39e8044ba8903c98caa8c064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6fc7bdd6c362ab75f7055e7a4a02ae') in 0.008459 seconds
-  Import took 0.015170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000369 seconds.
-  path: Assets/Graphics/topdown-shooter/Spritesheet
-  artifactKey: Guid(d0f1b1917267a407baace4e0694d6485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/Spritesheet using Guid(d0f1b1917267a407baace4e0694d6485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a19b6c6d144a96a3ab2d83eeca04ccb') in 0.007574 seconds
-  Import took 0.014194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Graphics/topdown-shooter/Tilesheet
-  artifactKey: Guid(34ac4e75cb62d45c5b302b4159977184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/Tilesheet using Guid(34ac4e75cb62d45c5b302b4159977184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e1abd9fbdae5917a0e80d886e6ebbe') in 0.004310 seconds
-  Import took 0.013913 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 69.342108 seconds.
-  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
-  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665da49e140199d7aa55991feb98a442') in 1.231110 seconds
-  Import took 1.247312 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.533268 seconds.
-  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
-  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9070642b1201b86f19a3c45926f78c1') in 0.029346 seconds
-  Import took 0.043783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.299754 seconds.
-  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
-  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87022aa5f79d129a15bdd98f8d2ba297') in 1.908906 seconds
-  Import took 1.919354 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.232422 seconds.
-  path: Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png
-  artifactKey: Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/topdown-shooter/Tilesheet/tilesheet_complete.png using Guid(dffbf639f3d1644fd8193ebe621c3f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d00f93e03cc8ea89e1cb40eafc8721e') in 1.759046 seconds
-  Import took 1.772681 seconds .
+  path: Assets/Scenes/Normal Mode/Level 03.unity
+  artifactKey: Guid(780ef9f0591c74b629e9ee3f0ff5e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 03.unity using Guid(780ef9f0591c74b629e9ee3f0ff5e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e4d52a7d12d141329900d4956954be') in 0.040611 seconds
+  Import took 0.063120 seconds .
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.017036 seconds.
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005395 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 85.15 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 248.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.881 seconds
+- Completed reload, in  3.219 seconds
 Registering precompiled user dll's ...
-Registered in 0.998944 seconds.
+Registered in 0.314632 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.436 seconds
+- Completed reload, in  1.893 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.0 MB.
-System memory in use after: 127.0 MB.
+System memory in use before: 140.0 MB.
+System memory in use after: 140.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2365.
-Total: 4.046396 ms (FindLiveObjects: 0.691312 ms CreateObjectMapping: 0.113040 ms MarkObjects: 3.119389 ms  DeleteObjects: 0.121601 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3269.
+Total: 5.597212 ms (FindLiveObjects: 0.905882 ms CreateObjectMapping: 0.297950 ms MarkObjects: 4.200670 ms  DeleteObjects: 0.190625 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014727 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 122.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.658 seconds
+Registering precompiled user dll's ...
+Registered in 0.342151 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3273.
+Total: 4.806712 ms (FindLiveObjects: 0.979412 ms CreateObjectMapping: 0.299715 ms MarkObjects: 3.351033 ms  DeleteObjects: 0.155885 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001325 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 143.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.619 seconds
+Registering precompiled user dll's ...
+Registered in 0.402839 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.288 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.3 MB.
+System memory in use after: 145.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3277.
+Total: 5.397572 ms (FindLiveObjects: 1.022060 ms CreateObjectMapping: 0.309993 ms MarkObjects: 3.854212 ms  DeleteObjects: 0.208758 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001202 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 95.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.832 seconds
+Registering precompiled user dll's ...
+Registered in 0.317070 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.627 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.9 MB.
+System memory in use after: 148.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3281.
+Total: 5.081240 ms (FindLiveObjects: 1.013125 ms CreateObjectMapping: 0.321478 ms MarkObjects: 3.538730 ms  DeleteObjects: 0.206003 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.129022 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 678.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.389 seconds
+Registering precompiled user dll's ...
+Registered in 1.986114 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.648 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.6 MB.
+System memory in use after: 150.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3285.
+Total: 25.541510 ms (FindLiveObjects: 4.937545 ms CreateObjectMapping: 2.953582 ms MarkObjects: 16.889010 ms  DeleteObjects: 0.703877 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4449.613290 seconds.
-  path: Packages/com.unity.2d.animation
-  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa2c993df6d6504be42b753d7d3b0af') in 0.094375 seconds
-  Import took 0.155103 seconds .
+  Time since last request: 488.413476 seconds.
+  path: Assets/Scenes/Normal Mode/Level 03.unity
+  artifactKey: Guid(780ef9f0591c74b629e9ee3f0ff5e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 03.unity using Guid(780ef9f0591c74b629e9ee3f0ff5e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fa39e4a11a68c6a945c3a24531b481') in 0.019176 seconds
+  Import took 0.030073 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.559571 seconds.
-  path: Assets/Tilemaps/Shooter Assets.prefab
-  artifactKey: Guid(a14b21a2c4a164f46bb406d926b3ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Assets.prefab using Guid(a14b21a2c4a164f46bb406d926b3ca50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e2985ab0577e3f0e2b69d03c1bec12') in 0.990320 seconds
-  Import took 1.007577 seconds .
+  Time since last request: 0.002439 seconds.
+  path: Assets/Scenes/Normal Mode/Level 03.unity
+  artifactKey: Guid(780ef9f0591c74b629e9ee3f0ff5e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 03.unity using Guid(780ef9f0591c74b629e9ee3f0ff5e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fa39e4a11a68c6a945c3a24531b481') in 0.005849 seconds
+  Import took 0.024827 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.433482 seconds.
-  path: Assets/Tilemaps/Shooter Tiles
-  artifactKey: Guid(2e965e6bc12e1453c888fd9dfc9315d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles using Guid(2e965e6bc12e1453c888fd9dfc9315d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bac473a7aee8d0cf55100718f8cf0a') in 0.003247 seconds
-  Import took 0.013490 seconds .
+  Time since last request: 10.421070 seconds.
+  path: Assets/Scenes/Normal Mode/Level 03.unity
+  artifactKey: Guid(9aa1ae0c304f342249eaa30936d65f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 03.unity using Guid(9aa1ae0c304f342249eaa30936d65f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a40e7defce52c1a5a27c9a43bc5959') in 0.008077 seconds
+  Import took 0.025940 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008898 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 147.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.941 seconds
+Registering precompiled user dll's ...
+Registered in 0.422556 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.458 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.2 MB.
+System memory in use after: 153.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3289.
+Total: 3.717158 ms (FindLiveObjects: 0.781245 ms CreateObjectMapping: 0.308950 ms MarkObjects: 2.483393 ms  DeleteObjects: 0.142212 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000996 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 102.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.064 seconds
+Registering precompiled user dll's ...
+Registered in 1.043391 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.949 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.9 MB.
+System memory in use after: 156.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3293.
+Total: 4.836098 ms (FindLiveObjects: 0.918755 ms CreateObjectMapping: 0.296655 ms MarkObjects: 3.415848 ms  DeleteObjects: 0.203298 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010616 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 131.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.152 seconds
+Registering precompiled user dll's ...
+Registered in 0.367191 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.307 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.5 MB.
+System memory in use after: 158.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3297.
+Total: 6.421018 ms (FindLiveObjects: 1.571121 ms CreateObjectMapping: 0.412678 ms MarkObjects: 4.238103 ms  DeleteObjects: 0.197461 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001462 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 110.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.586 seconds
+Registering precompiled user dll's ...
+Registered in 0.316602 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.274 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.2 MB.
+System memory in use after: 161.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3301.
+Total: 3.649417 ms (FindLiveObjects: 0.866296 ms CreateObjectMapping: 0.542526 ms MarkObjects: 2.124218 ms  DeleteObjects: 0.113317 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001034 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 137.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.087 seconds
+Registering precompiled user dll's ...
+Registered in 0.497477 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.364 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.9 MB.
+System memory in use after: 164.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3305.
+Total: 5.284890 ms (FindLiveObjects: 0.994145 ms CreateObjectMapping: 0.307175 ms MarkObjects: 3.783630 ms  DeleteObjects: 0.195660 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001078 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 110.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.275 seconds
+Registering precompiled user dll's ...
+Registered in 0.425969 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.207 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 166.5 MB.
+System memory in use after: 166.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3309.
+Total: 5.001973 ms (FindLiveObjects: 1.001455 ms CreateObjectMapping: 0.305913 ms MarkObjects: 3.500803 ms  DeleteObjects: 0.192042 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013020 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 120.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.678 seconds
+Registering precompiled user dll's ...
+Registered in 0.300764 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.674 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.2 MB.
+System memory in use after: 169.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3313.
+Total: 5.193784 ms (FindLiveObjects: 0.965183 ms CreateObjectMapping: 0.334537 ms MarkObjects: 3.692450 ms  DeleteObjects: 0.200000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001094 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 124.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.665 seconds
+Registering precompiled user dll's ...
+Registered in 0.289778 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.467 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.8 MB.
+System memory in use after: 171.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 6.722062 ms (FindLiveObjects: 1.100728 ms CreateObjectMapping: 0.417778 ms MarkObjects: 4.986265 ms  DeleteObjects: 0.215402 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001073 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 129.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.132 seconds
+Registering precompiled user dll's ...
+Registered in 0.528563 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.798 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.4 MB.
+System memory in use after: 174.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3321.
+Total: 5.036399 ms (FindLiveObjects: 0.990954 ms CreateObjectMapping: 0.359439 ms MarkObjects: 3.455871 ms  DeleteObjects: 0.228326 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001082 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 139.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.411 seconds
+Registering precompiled user dll's ...
+Registered in 0.505001 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.788 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.1 MB.
+System memory in use after: 177.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3325.
+Total: 5.169335 ms (FindLiveObjects: 1.001333 ms CreateObjectMapping: 0.314685 ms MarkObjects: 3.660888 ms  DeleteObjects: 0.190985 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.576208 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete.asset
-  artifactKey: Guid(bb020b9beda0044d6b08ae4a1892fb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete.asset using Guid(bb020b9beda0044d6b08ae4a1892fb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23332ffb53f4a4c6828a1bfda93888e5') in 3.372485 seconds
-  Import took 3.383340 seconds .
+  Time since last request: 857.332174 seconds.
+  path: Assets/Scenes/Level Select.unity
+  artifactKey: Guid(e6aa082df5e9b4262bb4718ba6f45c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level Select.unity using Guid(e6aa082df5e9b4262bb4718ba6f45c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cab5412ad575d20f3976a26535479c9') in 0.072561 seconds
+  Import took 0.150533 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000894 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_3.asset
-  artifactKey: Guid(d757a9cd76b114beeba8c548feedb298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_3.asset using Guid(d757a9cd76b114beeba8c548feedb298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76fe5bee39b9847deaaaff3b532e37d') in 0.184507 seconds
-  Import took 0.195135 seconds .
+  Time since last request: 3.364220 seconds.
+  path: Assets/Render Pipeline/Data.asset
+  artifactKey: Guid(a77e56a526269426a81fbe82e6f36d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Render Pipeline/Data.asset using Guid(a77e56a526269426a81fbe82e6f36d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8037162213596280797090b225db062f') in 3.604088 seconds
+  Import took 3.623000 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000529 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_1.asset
-  artifactKey: Guid(32735dd9ddc154e06b2e728150424eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_1.asset using Guid(32735dd9ddc154e06b2e728150424eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2607edec0a768f7c321b1f489127a582') in 0.016045 seconds
-  Import took 0.021753 seconds .
+  Time since last request: 24.101256 seconds.
+  path: Assets/Audio/SFX/select.wav
+  artifactKey: Guid(9f8b18a78d5314cd79f8eb19c5631079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX/select.wav using Guid(9f8b18a78d5314cd79f8eb19c5631079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70774fd96b703504cb0bfaa7b020ff88') in 1.202425 seconds
+  Import took 1.218100 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000428 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_2.asset
-  artifactKey: Guid(0a1d287e337074308a2e8bfbfc8aa471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_2.asset using Guid(0a1d287e337074308a2e8bfbfc8aa471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39de56bb0a9c789009812e831fab9d87') in 0.022186 seconds
-  Import took 0.029623 seconds .
+  Time since last request: 13.847545 seconds.
+  path: Assets/Fonts/GravityBold8.ttf
+  artifactKey: Guid(8176cf163b2db4026b12c3b0245efca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/GravityBold8.ttf using Guid(8176cf163b2db4026b12c3b0245efca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3965e02ddf6c5b8fa989d3a17987846b') in 1.234474 seconds
+  Import took 1.248392 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000402 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset
-  artifactKey: Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset using Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5541f8aedbac089a08053038be3c10b') in 0.024956 seconds
-  Import took 0.035066 seconds .
+  Time since last request: 0.000366 seconds.
+  path: Assets/Fonts/GravityRegular5.ttf
+  artifactKey: Guid(3bd61858493dc4471a8a91840cab0c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/GravityRegular5.ttf using Guid(3bd61858493dc4471a8a91840cab0c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dedf3001c007a32364b30297715fb3d') in 0.022839 seconds
+  Import took 0.039689 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000330 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_5.asset
-  artifactKey: Guid(504cb61c5a0734a2ba83f04c4c4dbb7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_5.asset using Guid(504cb61c5a0734a2ba83f04c4c4dbb7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a1e4293a50a344320679299bdbd855') in 0.024033 seconds
-  Import took 0.031441 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_4.asset
-  artifactKey: Guid(a7efd01191679486a96320df817fc6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_4.asset using Guid(a7efd01191679486a96320df817fc6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd238cad2742c7cc7ecb4e43961a80533') in 0.022525 seconds
-  Import took 0.036450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000396 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset
-  artifactKey: Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_8.asset using Guid(2fd40c903fd6f4e249c2952049a69a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5541f8aedbac089a08053038be3c10b') in 0.013629 seconds
-  Import took 0.023790 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_7.asset
-  artifactKey: Guid(8ce78caca73e6416abbc6c830341f609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_7.asset using Guid(8ce78caca73e6416abbc6c830341f609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d2ce36be11aacd65bda61d721a519e') in 0.017607 seconds
-  Import took 0.026385 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_0.asset
-  artifactKey: Guid(b9e22e73db92543128460ed5ca34e1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_0.asset using Guid(b9e22e73db92543128460ed5ca34e1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c646e72bf6e6ae97130d834a92f8a3df') in 0.025776 seconds
-  Import took 0.037520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_9.asset
-  artifactKey: Guid(6daa8f8e93da44989b21dbf192664532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_9.asset using Guid(6daa8f8e93da44989b21dbf192664532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8017cf245b017c083cd1026843e73f9e') in 0.019417 seconds
-  Import took 0.025381 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.022849 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset
-  artifactKey: Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset using Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e26a893c03d4883ae5806e85657011') in 0.029753 seconds
-  Import took 0.037239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.031477 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset
-  artifactKey: Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_11.asset using Guid(0e84911f678d1441295daff9fdba66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e26a893c03d4883ae5806e85657011') in 0.023638 seconds
-  Import took 0.033692 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.082562 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_13.asset
-  artifactKey: Guid(5d1a92637b23d4f4796630a02cd72be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_13.asset using Guid(5d1a92637b23d4f4796630a02cd72be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b99bfef781eb31523c734cd8346985') in 0.026119 seconds
-  Import took 0.038179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.084149 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_14.asset
-  artifactKey: Guid(ab7e1ca6ada2a4f848f9dc6300e34075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_14.asset using Guid(ab7e1ca6ada2a4f848f9dc6300e34075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116c0c5fa2c0cc26143dbbb328ac0f86') in 0.028367 seconds
-  Import took 0.038274 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017416 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_15.asset
-  artifactKey: Guid(98d2ff3206b794d548df1e4362737eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_15.asset using Guid(98d2ff3206b794d548df1e4362737eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e26b0c8ef81b92b0001a06d47db525') in 0.022727 seconds
-  Import took 0.029524 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.036589 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset
-  artifactKey: Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset using Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf35b8f3412a7e678bde399a472fb6d') in 0.023425 seconds
-  Import took 0.037360 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002885 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset
-  artifactKey: Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_16.asset using Guid(84c3fa9b96e1f4b15bcfe13dbf18d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf35b8f3412a7e678bde399a472fb6d') in 0.020555 seconds
-  Import took 0.030598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.089783 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset
-  artifactKey: Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset using Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9425b5431ea4a6a8b8542a0ea849c04') in 0.023459 seconds
-  Import took 0.036589 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002857 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset
-  artifactKey: Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_18.asset using Guid(da33e05b7711a419189eff5a3615481e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9425b5431ea4a6a8b8542a0ea849c04') in 0.015553 seconds
-  Import took 0.022319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.090511 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_19.asset
-  artifactKey: Guid(1748b161b781d4b60b244fe6f79db3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_19.asset using Guid(1748b161b781d4b60b244fe6f79db3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec66bb84895e3a1e441308e8132b989c') in 0.024826 seconds
-  Import took 0.040908 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.041635 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset
-  artifactKey: Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset using Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61126cf358d69de9c2363dffaa7d9228') in 0.030987 seconds
-  Import took 0.039721 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001280 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset
-  artifactKey: Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_21.asset using Guid(f9e143722ab2d4d188b7ac37630fb269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61126cf358d69de9c2363dffaa7d9228') in 0.018640 seconds
-  Import took 0.025530 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.089833 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset
-  artifactKey: Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset using Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce90e6637c0f2b687093b9b1e57effb') in 0.034762 seconds
-  Import took 0.044338 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000919 seconds.
-  path: Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset
-  artifactKey: Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilemaps/Shooter Tiles/tilesheet_complete_20.asset using Guid(a3464ca0aca90491094d20c6a9b54eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce90e6637c0f2b687093b9b1e57effb') in 0.017236 seconds
-  Import took 0.023395 seconds .
+  path: Assets/Fonts/TMP Fonts
+  artifactKey: Guid(b54b85a4917d5486d8e36b0f77f4da04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TMP Fonts using Guid(b54b85a4917d5486d8e36b0f77f4da04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc25b4d7e9b60f30bde6edf5dc74ca8') in 0.003245 seconds
+  Import took 0.018953 seconds .
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003390 seconds.
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003047 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 153.79 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 151.80 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.122 seconds
+- Completed reload, in  3.744 seconds
 Registering precompiled user dll's ...
-Registered in 0.387206 seconds.
+Registered in 0.302634 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.475 seconds
+- Completed reload, in  3.157 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 137.6 MB.
-System memory in use after: 137.6 MB.
+System memory in use before: 196.3 MB.
+System memory in use after: 196.4 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2371.
-Total: 4.500529 ms (FindLiveObjects: 0.878445 ms CreateObjectMapping: 0.264685 ms MarkObjects: 3.172577 ms  DeleteObjects: 0.182970 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3375.
+Total: 7.190441 ms (FindLiveObjects: 1.263304 ms CreateObjectMapping: 0.218930 ms MarkObjects: 5.451650 ms  DeleteObjects: 0.254228 ms)
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001017 seconds.
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006526 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 81.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 239.54 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.552 seconds
+- Completed reload, in  7.354 seconds
 Registering precompiled user dll's ...
-Registered in 0.135304 seconds.
+Registered in 0.891905 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.457 seconds
+- Completed reload, in  4.203 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.20 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 139.6 MB.
-System memory in use after: 139.6 MB.
+System memory in use before: 199.0 MB.
+System memory in use after: 199.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2375.
-Total: 2.634352 ms (FindLiveObjects: 0.531094 ms CreateObjectMapping: 0.099749 ms MarkObjects: 1.875879 ms  DeleteObjects: 0.126273 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3379.
+Total: 7.915200 ms (FindLiveObjects: 3.539055 ms CreateObjectMapping: 0.641469 ms MarkObjects: 3.589330 ms  DeleteObjects: 0.144074 ms)
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Users/Cubby/Documents/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001616 seconds.
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001184 seconds.
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 93.82 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 151.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.471 seconds
+- Completed reload, in  3.576 seconds
 Registering precompiled user dll's ...
-Registered in 0.208669 seconds.
+Registered in 0.376176 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.630 seconds
+- Completed reload, in  2.901 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 141.5 MB.
-System memory in use after: 141.5 MB.
+System memory in use before: 201.7 MB.
+System memory in use after: 201.8 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2379.
-Total: 13.487000 ms (FindLiveObjects: 3.713392 ms CreateObjectMapping: 0.362553 ms MarkObjects: 9.251242 ms  DeleteObjects: 0.153543 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3383.
+Total: 5.387690 ms (FindLiveObjects: 1.178058 ms CreateObjectMapping: 0.314672 ms MarkObjects: 3.705680 ms  DeleteObjects: 0.186755 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.2.0a19/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001079 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 131.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.785 seconds
+Registering precompiled user dll's ...
+Registered in 0.561454 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.944 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.3 MB.
+System memory in use after: 204.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3387.
+Total: 5.310527 ms (FindLiveObjects: 0.958912 ms CreateObjectMapping: 0.300340 ms MarkObjects: 3.853393 ms  DeleteObjects: 0.195892 ms)
 

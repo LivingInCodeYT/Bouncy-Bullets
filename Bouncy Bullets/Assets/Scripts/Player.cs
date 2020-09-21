@@ -18,6 +18,8 @@ public class Player : MonoBehaviour {
         transform.position = new Vector3(Mathf.Clamp(transform.position.x, minX, maxX), Mathf.Clamp(transform.position.y, minY, maxY));
         if (!gM.gameIsOver) {
             movement = new Vector3(Input.GetAxisRaw("Horizontal") * moveSpeed, Input.GetAxisRaw("Vertical") * moveSpeed, 0f);
+        } else {
+            movement = Vector3.zero;
         }
     }
     void FixedUpdate() {
@@ -35,8 +37,8 @@ public class Player : MonoBehaviour {
             #endregion
         }
     }
-    void OnTriggerEnter2D(Collider2D other) {
-        if (other.CompareTag("Bullet"))
+    void OnCollisionEnter2D(Collision2D other) {
+        if (other.gameObject.CompareTag("Bullet"))
             gM.GameOver();
     }
 }
