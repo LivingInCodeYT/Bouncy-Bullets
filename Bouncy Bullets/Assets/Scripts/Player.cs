@@ -7,6 +7,7 @@ public class Player : MonoBehaviour {
     private Vector3 movement;
 
 	public float moveSpeed = 5f;
+    [Header("Boundaries")]
     public float minX, maxX;
     public float minY, maxY;
 
@@ -25,7 +26,7 @@ public class Player : MonoBehaviour {
     void FixedUpdate() {
         if (!gM.gameIsOver) {
             rb.MovePosition(transform.position + movement);
-            #region Rotation Handling
+            #region Rotation
             if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
                 transform.rotation = Quaternion.Euler(0f, 0f, 0f);
             else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))

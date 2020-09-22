@@ -11,10 +11,12 @@ public class UIController : MonoBehaviour {
     }
     public void SetTimeToSurvive(int value) {
         if (value > 0) {
-            if (!gM.gameIsOver) {
-                timerText.text = (value.ToString());
-            } else {
-                timerText.text = ("0");
+            if (gM) {
+                if (!gM.gameIsOver) {
+                    timerText.text = value.ToString();
+                } else {
+                    timerText.text = "0";
+                }
             }
         } else {
             gM.WinLevel();
