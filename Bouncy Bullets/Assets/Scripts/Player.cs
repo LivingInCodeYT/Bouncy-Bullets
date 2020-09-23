@@ -12,7 +12,7 @@ public class Player : MonoBehaviour {
     public float minY, maxY;
 
     void Awake() {
-        gM = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
+        gM = GameObject.FindGameObjectWithTag(Tags.Manager).GetComponent<GameManager>();
         rb = GetComponent<Rigidbody2D>();
     }
     void Update() {
@@ -39,7 +39,7 @@ public class Player : MonoBehaviour {
         }
     }
     void OnCollisionEnter2D(Collision2D other) {
-        if (other.gameObject.CompareTag("Bullet"))
+        if (other.gameObject.CompareTag(Tags.Bullet))
             gM.GameOver();
     }
 }

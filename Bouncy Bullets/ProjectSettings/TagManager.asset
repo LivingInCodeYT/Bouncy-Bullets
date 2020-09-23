@@ -6,7 +6,6 @@ TagManager:
   tags:
   - GameManager
   - Bullet
-  - Ball
   - Powerup
   layers:
   - Default
@@ -44,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 12677269
+    locked: 0
+  - name: Walls
+    uniqueID: 649165291
+    locked: 0
+  - name: Live Elements
+    uniqueID: 2567014205
     locked: 0

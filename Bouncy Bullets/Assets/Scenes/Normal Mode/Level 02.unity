@@ -175,6 +175,14 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7381304684329730241, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1727953091
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381304684329730241, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7381304684329730242, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -606,6 +614,14 @@ PrefabInstance:
     - target: {fileID: 3167616994726987522, guid: 8caa3cec2806b4f4eb0a6ca2e2166e6d, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167616994726987582, guid: 8caa3cec2806b4f4eb0a6ca2e2166e6d, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1727953091
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167616994726987582, guid: 8caa3cec2806b4f4eb0a6ca2e2166e6d, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8caa3cec2806b4f4eb0a6ca2e2166e6d, type: 3}
@@ -4796,5 +4812,13 @@ PrefabInstance:
       propertyPath: m_TileSpriteArray.Array.data[14].m_Data
       value: 
       objectReference: {fileID: 3575783919403389525, guid: 3849587d060a94f58bcedc177d94fd3d, type: 3}
+    - target: {fileID: 8651719519402732859, guid: 7ae14ed071a23411a932f326ef96547f, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 12677269
+      objectReference: {fileID: 0}
+    - target: {fileID: 8651719519402732859, guid: 7ae14ed071a23411a932f326ef96547f, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7ae14ed071a23411a932f326ef96547f, type: 3}

@@ -46,7 +46,7 @@ public class Turret : MonoBehaviour {
     #endregion
     #region Methods
     void Seek() {
-        Transform p = GameObject.FindGameObjectWithTag("Player").transform;
+        Transform p = GameObject.FindGameObjectWithTag(Tags.Player).transform;
         if (Vector2.Distance(transform.position, p.position) < range) {
             target = p;
         } else {

@@ -9,7 +9,7 @@ public class Rocket : MonoBehaviour {
 
     void Awake() {
         rb = GetComponent<Rigidbody2D>();
-        target = GameObject.FindGameObjectWithTag("Player").transform;
+        target = GameObject.FindGameObjectWithTag(Tags.Player).transform;
     }
     void Update() {
         rb.velocity = transform.up * speed;
