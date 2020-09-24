@@ -1,2 +1,4 @@
-# Starting compiling Assembly-CSharp.dll
-/Applications/2020.2.0a19/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6b1c4c77d403a4f10ae5a5de4caa6b22
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-916a07e56d65b420a883a53b8bb26c9b
+# Starting compiling Unity.ShaderGraph.Editor.dll
+/Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4884de0bcd4bb4121919dfa14e84d98c

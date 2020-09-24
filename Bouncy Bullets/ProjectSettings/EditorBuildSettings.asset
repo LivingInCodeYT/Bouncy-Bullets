@@ -19,12 +19,12 @@ EditorBuildSettings:
     guid: f2846b3e0502d4f7786e49851908deea
   - enabled: 1
     path: Assets/Scenes/Normal Mode/Level 03.unity
-    guid: 9aa1ae0c304f342249eaa30936d65f36
+    guid: 07ad0c9d0140f4d59bfbffcedece71f6
   - enabled: 1
     path: Assets/Scenes/Normal Mode/Level 04.unity
     guid: d7b1e6996a59e4e298f92f8f0a7e5b9f
   - enabled: 1
-    path: Assets/Scenes/Normal Mode/Level 05.unity
+    path: Assets/Scenes/Normal Mode/Level 05 _n.unity
     guid: 797352e74a9724e379c7a5fded156fb0
   - enabled: 1
     path: Assets/Scenes/Normal Mode/Level 06.unity
@@ -50,4 +50,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hard Mode/Level 03.unity
     guid: 780ef9f0591c74b629e9ee3f0ff5e38d
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 04.unity
+    guid: b15222363dcbc435e9126f102346db60
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 05.unity
+    guid: 84485cd5720144f87bf61429784b1e9a
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 06.unity
+    guid: 602520206896949e789b51128b4e4e9a
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 07.unity
+    guid: 02d27fa94b5344ec4ad84d63b59ab5c8
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 08.unity
+    guid: 39a3c57f29cb945189b5b1d660689133
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 09.unity
+    guid: 78af7af81210b4ff2850f6e929b67578
+  - enabled: 1
+    path: Assets/Scenes/Hard Mode/Level 10.unity
+    guid: 862832308a6ba436f94f5d30ad94be0d
   m_configObjects: {}
