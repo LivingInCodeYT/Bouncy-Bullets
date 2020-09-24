@@ -14,4 +14,7 @@ public class MainMenu : MonoBehaviour {
         PlayerPrefs.Save();
         Application.Quit(0);
     }
+    public void OpenURL(string url) {
+        Application.OpenURL(url);
+    }
 }

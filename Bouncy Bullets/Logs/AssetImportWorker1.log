@@ -1,0 +1,2051 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+63352
+Successfully changed project path to: /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
+/Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 130.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b2 (90b2443a8df1)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Assets
+GfxDevice: creating device client; threaded=0
+2020-09-24 18:55:06.665 Unity[22704:615855] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-24 18:55:06.665 Unity[22704:615855] Metal devices available: 1
+2020-09-24 18:55:06.665 Unity[22704:615855] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-09-24 18:55:06.667 Unity[22704:615855] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.019291 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 98.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.100 seconds
+Registering precompiled user dll's ...
+Registered in 0.546705 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 110.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.155 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2836 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 198.8 MB.
+System memory in use after: 198.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3280.
+Total: 5.783953 ms (FindLiveObjects: 1.065076 ms CreateObjectMapping: 0.446371 ms MarkObjects: 4.047095 ms  DeleteObjects: 0.223402 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/arrowLeft.png
+  artifactKey: Guid(c3ffcb680a29a499e879564a626c57cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/arrowLeft.png using Guid(c3ffcb680a29a499e879564a626c57cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106e6f2a4867cc9cd05605e8b31642b0') in 1.336375 seconds
+  Import took 1.359971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002710 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonY.png
+  artifactKey: Guid(a3b9a53f974d0486bb3620ebdbb9da2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonY.png using Guid(a3b9a53f974d0486bb3620ebdbb9da2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34177467c437cbce15410cb92335c97') in 0.020269 seconds
+  Import took 0.032538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/barsVertical.png
+  artifactKey: Guid(163f8aeae6c704e55af9c653b1a25ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/barsVertical.png using Guid(163f8aeae6c704e55af9c653b1a25ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e94180b46e11b6837ac2995c7df7600') in 0.021320 seconds
+  Import took 0.033540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Graphics/gameicons/PNG/White/1x/arrowUp.png
+  artifactKey: Guid(bef4860cfdd564648a518c4f9313ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/White/1x/arrowUp.png using Guid(bef4860cfdd564648a518c4f9313ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff2cbc49ca6caf83ba8e0d663d3b8ce') in 0.018813 seconds
+  Import took 0.031911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/backward.png
+  artifactKey: Guid(0f5b04681c4c84ea09d4a37487429706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/backward.png using Guid(0f5b04681c4c84ea09d4a37487429706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3fae83ba257671f5cda75cf4437e22') in 0.011524 seconds
+  Import took 0.034851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/2x/export.png
+  artifactKey: Guid(68f545a9e3cf64bd1a97dfa57c2a57e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/2x/export.png using Guid(68f545a9e3cf64bd1a97dfa57c2a57e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1b60b7a3f0e6537cfb93c420c4b477') in 0.030385 seconds
+  Import took 0.047952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004081 seconds.
+  path: Assets/Graphics/gameicons/PNG/White/2x/export.png
+  artifactKey: Guid(6ce9e38c597354787977b6e054898ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/White/2x/export.png using Guid(6ce9e38c597354787977b6e054898ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55121016408012798a4d6c74a1e0b11b') in 0.027059 seconds
+  Import took 0.038967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001315 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonB.png
+  artifactKey: Guid(da4afa8af68ad40fe9cf6a120698f6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonB.png using Guid(da4afa8af68ad40fe9cf6a120698f6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa006ff1f0410da8d3685224c6c4f2a') in 0.012495 seconds
+  Import took 0.027256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonSelect.png
+  artifactKey: Guid(8143491bf81f94055a6f75549eb2fe19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonSelect.png using Guid(8143491bf81f94055a6f75549eb2fe19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a00bdbf532906e80025dcf17a21d4c') in 0.027167 seconds
+  Import took 0.049378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010608 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonL2.png
+  artifactKey: Guid(5a525b54ab8d741e89f7f953baea56a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonL2.png using Guid(5a525b54ab8d741e89f7f953baea56a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412a8ff8d538b508cf1eff880bf786be') in 0.021487 seconds
+  Import took 0.039022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002634 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonStart.png
+  artifactKey: Guid(8357398dffa954a438d734dd01044a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonStart.png using Guid(8357398dffa954a438d734dd01044a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd742070cd3be8111c88a27dfe9e1a94') in 0.014906 seconds
+  Import took 0.029246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005456 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/export.png
+  artifactKey: Guid(5bf03bc56fce84b3294ae0d64bc47712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/export.png using Guid(5bf03bc56fce84b3294ae0d64bc47712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bce0fbfaf1f2b6f2d11f79c4aa55bc') in 0.020452 seconds
+  Import took 0.036668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/button1.png
+  artifactKey: Guid(449d290a9a9ff4e18b57d8a21a974223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/button1.png using Guid(449d290a9a9ff4e18b57d8a21a974223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc9503aa084ba9bcd3c131669b355717') in 0.015323 seconds
+  Import took 0.039553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/arrowRight.png
+  artifactKey: Guid(0b00528aaa7b74b77b7bd0556c0f3790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/arrowRight.png using Guid(0b00528aaa7b74b77b7bd0556c0f3790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b33ae38963ca0043c4f8b86830bd4ec') in 0.014204 seconds
+  Import took 0.027464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Graphics/gameicons/PNG/White/1x/export.png
+  artifactKey: Guid(62b2da7b98e2d45e2b22849c55e9f4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/White/1x/export.png using Guid(62b2da7b98e2d45e2b22849c55e9f4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7470e09d0ca02fc23f0b3a973bc7d25') in 0.015093 seconds
+  Import took 0.027371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonR1.png
+  artifactKey: Guid(c526fc926dc2e44a881cbda8132fd253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonR1.png using Guid(c526fc926dc2e44a881cbda8132fd253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3011d858629fa6d1ae915c941f01feaf') in 0.018406 seconds
+  Import took 0.035959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/arrowDown.png
+  artifactKey: Guid(32e6e5516774e408d927774eba7aca89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/arrowDown.png using Guid(32e6e5516774e408d927774eba7aca89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81a5d9795f9e571a5003d0484acc65a') in 0.016968 seconds
+  Import took 0.029767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004797 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonA.png
+  artifactKey: Guid(f02079707c7864032b779191db63b1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonA.png using Guid(f02079707c7864032b779191db63b1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5717b7f39ea886bc1de84b3ce9261614') in 0.016150 seconds
+  Import took 0.032709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/barsHorizontal.png
+  artifactKey: Guid(97a191003a80a4f3fad762139e0407f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/barsHorizontal.png using Guid(97a191003a80a4f3fad762139e0407f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09c3f64badd1b284e1db831c488c207') in 0.015585 seconds
+  Import took 0.030961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001980 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/audioOff.png
+  artifactKey: Guid(0190e0d0c26034b09ae57c3fe6e1952e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/audioOff.png using Guid(0190e0d0c26034b09ae57c3fe6e1952e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffbee832d9945307d81403cd64627bb3') in 0.023902 seconds
+  Import took 0.043104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003079 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonX.png
+  artifactKey: Guid(c5796b37984aa4062af34444b6b1b608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonX.png using Guid(c5796b37984aa4062af34444b6b1b608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adf56cc3b9e226b34ed876c8e2a0ac5') in 0.011199 seconds
+  Import took 0.035625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/2x/arrowUp.png
+  artifactKey: Guid(906861e6b145743e38cce9be70f095fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/2x/arrowUp.png using Guid(906861e6b145743e38cce9be70f095fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac4c3876909ee6db70ebc6d6cdf5f00') in 0.012905 seconds
+  Import took 0.036456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/audioOn.png
+  artifactKey: Guid(aea6d50ec9d8d4d1b8b20db3db301b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/audioOn.png using Guid(aea6d50ec9d8d4d1b8b20db3db301b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9375fdfebc458e8713f7385b32c0eeb') in 0.016922 seconds
+  Import took 0.030806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/arrowUp.png
+  artifactKey: Guid(564032292cf094524971fd2e6ee25e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/arrowUp.png using Guid(564032292cf094524971fd2e6ee25e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ce5cb5afa9f59b7792ce1007f1383e') in 0.012591 seconds
+  Import took 0.035540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Graphics/gameicons/PNG/White/2x/arrowUp.png
+  artifactKey: Guid(e5ea92e3e7640427887d5c72b4d396fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/White/2x/arrowUp.png using Guid(e5ea92e3e7640427887d5c72b4d396fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c063fc03c9469556e706253522bb609') in 0.023263 seconds
+  Import took 0.041633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonL.png
+  artifactKey: Guid(14e09e8e2ec364751af9aaf1c6a97118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonL.png using Guid(14e09e8e2ec364751af9aaf1c6a97118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4503ec2ef0fb52c0147b03f78d329b2c') in 0.022590 seconds
+  Import took 0.070950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonR2.png
+  artifactKey: Guid(77a7e3300807746e686acef8b74e8fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonR2.png using Guid(77a7e3300807746e686acef8b74e8fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebee0070465cfea6ebc1394bbac7361') in 0.019595 seconds
+  Import took 0.031498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonR.png
+  artifactKey: Guid(c7a97c99a1f6642b78f4eef8594138e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonR.png using Guid(c7a97c99a1f6642b78f4eef8594138e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f5504a58e5e639b030d01f3557b0d6') in 0.020772 seconds
+  Import took 0.039458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/button2.png
+  artifactKey: Guid(9d7729b4788a6422b98a5a4a9f890a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/button2.png using Guid(9d7729b4788a6422b98a5a4a9f890a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6504249f15d9242cd14842b0c4e80b82') in 0.018545 seconds
+  Import took 0.033006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/buttonL1.png
+  artifactKey: Guid(63be887afafd44922a44b4be97d1cd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/buttonL1.png using Guid(63be887afafd44922a44b4be97d1cd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d802701a8306f3adebcbb27420f8a4') in 0.022234 seconds
+  Import took 0.034910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/button3.png
+  artifactKey: Guid(3fd3475665f0c40b0b4257b15b094dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/button3.png using Guid(3fd3475665f0c40b0b4257b15b094dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6efd2ea0196f264e5507a8f1265cc4') in 0.016562 seconds
+  Import took 0.031626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.704165 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/trophy.png
+  artifactKey: Guid(61eb00b0859f449d9b9514ea2b738d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/trophy.png using Guid(61eb00b0859f449d9b9514ea2b738d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48b991073e70e61a88384ec1e302b02') in 0.030387 seconds
+  Import took 0.045546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001389 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/trophy.png
+  artifactKey: Guid(61eb00b0859f449d9b9514ea2b738d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/trophy.png using Guid(61eb00b0859f449d9b9514ea2b738d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48b991073e70e61a88384ec1e302b02') in 0.021268 seconds
+  Import took 0.036929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.377072 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/unlocked.png
+  artifactKey: Guid(df27924415832469d94306b170845b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/unlocked.png using Guid(df27924415832469d94306b170845b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4330fb955b025e4026f090af4020e62f') in 0.014639 seconds
+  Import took 0.028987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009495 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/unlocked.png
+  artifactKey: Guid(df27924415832469d94306b170845b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/unlocked.png using Guid(df27924415832469d94306b170845b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4330fb955b025e4026f090af4020e62f') in 0.013836 seconds
+  Import took 0.024547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.303678 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/up.png
+  artifactKey: Guid(29c8c5729a8f04931bc730e4f37d7832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/up.png using Guid(29c8c5729a8f04931bc730e4f37d7832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd982b09fdc3a5f78b5169ab3fbaec84e') in 0.017428 seconds
+  Import took 0.030547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002132 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/up.png
+  artifactKey: Guid(29c8c5729a8f04931bc730e4f37d7832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/up.png using Guid(29c8c5729a8f04931bc730e4f37d7832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd982b09fdc3a5f78b5169ab3fbaec84e') in 0.012207 seconds
+  Import took 0.025086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443475 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/upLeft.png
+  artifactKey: Guid(89f30ce4e30aa42f08906cb3f7989112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/upLeft.png using Guid(89f30ce4e30aa42f08906cb3f7989112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2534026d3a050a3e98e5a4f3a3450f') in 0.019519 seconds
+  Import took 0.032111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000971 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/upLeft.png
+  artifactKey: Guid(89f30ce4e30aa42f08906cb3f7989112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/upLeft.png using Guid(89f30ce4e30aa42f08906cb3f7989112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2534026d3a050a3e98e5a4f3a3450f') in 0.013220 seconds
+  Import took 0.023458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080185 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/upRight.png
+  artifactKey: Guid(e1b2eedd6dd204c9eb9207ab289e5132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/upRight.png using Guid(e1b2eedd6dd204c9eb9207ab289e5132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b7c7c04d6654a9d93c80bab113794d') in 0.016731 seconds
+  Import took 0.030110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.936698 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/trashcanOpen.png
+  artifactKey: Guid(ae70af2f502bb400db3d11e33e279029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/trashcanOpen.png using Guid(ae70af2f502bb400db3d11e33e279029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f2a615eb248b32fd67f22e7ab90e12') in 0.023359 seconds
+  Import took 0.040947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087508 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/trashcan.png
+  artifactKey: Guid(50dfdfe9870824640a797a1bf6f73b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/trashcan.png using Guid(50dfdfe9870824640a797a1bf6f73b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d04783a15698a2570453c2732f87e70') in 0.015455 seconds
+  Import took 0.031262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/trashcan.png
+  artifactKey: Guid(50dfdfe9870824640a797a1bf6f73b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/trashcan.png using Guid(50dfdfe9870824640a797a1bf6f73b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d04783a15698a2570453c2732f87e70') in 0.012689 seconds
+  Import took 0.021918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.125733 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/tablet.png
+  artifactKey: Guid(f3ac178abc4e045da83d9344dcf8df7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/tablet.png using Guid(f3ac178abc4e045da83d9344dcf8df7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed3f319c1cf470b83b878157814d0f1') in 0.014986 seconds
+  Import took 0.029727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080047 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/stop.png
+  artifactKey: Guid(bbaeb63194c014aacab039a516bbe72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/stop.png using Guid(bbaeb63194c014aacab039a516bbe72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae51b6de0c023b6730b62cbe12014b3') in 0.013525 seconds
+  Import took 0.027324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035779 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/star.png
+  artifactKey: Guid(0c5c407ab12034a0d8357b05821c8287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/star.png using Guid(0c5c407ab12034a0d8357b05821c8287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9b78e2ca7617c3a5b55e72815930fb') in 0.015681 seconds
+  Import took 0.034380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044793 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/smaller.png
+  artifactKey: Guid(a885d8ff7762d41b3b28bd739b799767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/smaller.png using Guid(a885d8ff7762d41b3b28bd739b799767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21d27ff1f31c8af8e099121c5ba0150') in 0.013745 seconds
+  Import took 0.030331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087315 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/signal3.png
+  artifactKey: Guid(9c1130caac56b4a87a7de86438605957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/signal3.png using Guid(9c1130caac56b4a87a7de86438605957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c618b1bd39f7dc4024aa2026b567d77') in 0.014713 seconds
+  Import took 0.028969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000859 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/signal3.png
+  artifactKey: Guid(9c1130caac56b4a87a7de86438605957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/signal3.png using Guid(9c1130caac56b4a87a7de86438605957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c618b1bd39f7dc4024aa2026b567d77') in 0.015701 seconds
+  Import took 0.031095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080991 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/signal2.png
+  artifactKey: Guid(42c1f0e2d943249e9a400edc7c5753fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/signal2.png using Guid(42c1f0e2d943249e9a400edc7c5753fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6ce4e633ccc2f679c9753f2275503a') in 0.016180 seconds
+  Import took 0.032926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074143 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/signal1.png
+  artifactKey: Guid(957802f22cf3c443e9a4346ea40752dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/signal1.png using Guid(957802f22cf3c443e9a4346ea40752dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57ec2ec3aea89b3f9cc2f169f78b93a') in 0.015513 seconds
+  Import took 0.029307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033812 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/share2.png
+  artifactKey: Guid(3caa08405725843c79e955f14ac26a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/share2.png using Guid(3caa08405725843c79e955f14ac26a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca06871b129363457b71fe9eadbf8ab') in 0.014188 seconds
+  Import took 0.026238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056970 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/share1.png
+  artifactKey: Guid(8adda93e34b05408993b76cd35741505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/share1.png using Guid(8adda93e34b05408993b76cd35741505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba40c5ce5a980ae7093ebe4017dd25f') in 0.014495 seconds
+  Import took 0.027051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086992 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/scrollHorizontal.png
+  artifactKey: Guid(432d47870b36a4bda83a688261297151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/scrollHorizontal.png using Guid(432d47870b36a4bda83a688261297151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4f070a263ae26c002899b226d3d5f3') in 0.014331 seconds
+  Import took 0.024774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.298374 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/save.png
+  artifactKey: Guid(3e3488b72dccc433b8fe0ad03e40df35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/save.png using Guid(3e3488b72dccc433b8fe0ad03e40df35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5294c9aa7470a88a02dcb446b9f291c4') in 0.018698 seconds
+  Import took 0.033811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002585 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/save.png
+  artifactKey: Guid(3e3488b72dccc433b8fe0ad03e40df35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/save.png using Guid(3e3488b72dccc433b8fe0ad03e40df35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5294c9aa7470a88a02dcb446b9f291c4') in 0.013808 seconds
+  Import took 0.025375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.434799 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/rewind.png
+  artifactKey: Guid(fa3d36d37f9d24d18b32da9ccdf73800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/rewind.png using Guid(fa3d36d37f9d24d18b32da9ccdf73800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53e24d75649b3009fdc9d62f96ecfe6') in 0.023732 seconds
+  Import took 0.039087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.524337 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/return.png
+  artifactKey: Guid(0389267299ec04c5faced8309e050b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/return.png using Guid(0389267299ec04c5faced8309e050b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a7a95b4263c9790284c1c565c2acbf') in 0.014446 seconds
+  Import took 0.028834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.267387 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/question.png
+  artifactKey: Guid(c2efd076a02dc4d1ebaca12e86c21759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/question.png using Guid(c2efd076a02dc4d1ebaca12e86c21759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dab43081816edb8d220a365247aee33') in 0.016828 seconds
+  Import took 0.031885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/question.png
+  artifactKey: Guid(c2efd076a02dc4d1ebaca12e86c21759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/question.png using Guid(c2efd076a02dc4d1ebaca12e86c21759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dab43081816edb8d220a365247aee33') in 0.013185 seconds
+  Import took 0.031741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.236722 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/previous.png
+  artifactKey: Guid(c531fee4e68e747c7adce9830177fadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/previous.png using Guid(c531fee4e68e747c7adce9830177fadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10fcc335626c7664da5c26030f5e04a') in 0.017198 seconds
+  Import took 0.032102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001613 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/previous.png
+  artifactKey: Guid(c531fee4e68e747c7adce9830177fadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/previous.png using Guid(c531fee4e68e747c7adce9830177fadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10fcc335626c7664da5c26030f5e04a') in 0.017788 seconds
+  Import took 0.037687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.209088 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/power.png
+  artifactKey: Guid(dcf26c58102dc4641bf1bd4afaf83a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/power.png using Guid(dcf26c58102dc4641bf1bd4afaf83a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126595038f6477522906ce8f64dd96b4') in 0.015259 seconds
+  Import took 0.030350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/power.png
+  artifactKey: Guid(dcf26c58102dc4641bf1bd4afaf83a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/power.png using Guid(dcf26c58102dc4641bf1bd4afaf83a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126595038f6477522906ce8f64dd96b4') in 0.012789 seconds
+  Import took 0.023161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.244917 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/plus.png
+  artifactKey: Guid(251cecf861b01489a859e371ead31c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/plus.png using Guid(251cecf861b01489a859e371ead31c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd739925b39691add3a83c39dc2d5c1a') in 0.022605 seconds
+  Import took 0.035698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.821030 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/phone.png
+  artifactKey: Guid(73d4cb5eac8de4a44b48b62a3a989ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/phone.png using Guid(73d4cb5eac8de4a44b48b62a3a989ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e53267395b44286ed28f60d63c02103') in 0.042428 seconds
+  Import took 0.103061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.460858 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/pause.png
+  artifactKey: Guid(2ea3400a03abb4884afb26cacaa78601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/pause.png using Guid(2ea3400a03abb4884afb26cacaa78601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a6557699ec6405894589af5d20de80') in 0.020200 seconds
+  Import took 0.035264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/pause.png
+  artifactKey: Guid(2ea3400a03abb4884afb26cacaa78601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/pause.png using Guid(2ea3400a03abb4884afb26cacaa78601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a6557699ec6405894589af5d20de80') in 0.010775 seconds
+  Import took 0.023683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.279841 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/open.png
+  artifactKey: Guid(8f35cbea6c6eb4da0ba1ff936ad4b4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/open.png using Guid(8f35cbea6c6eb4da0ba1ff936ad4b4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ea75777682413fbb5c0131a1df72e2') in 0.017506 seconds
+  Import took 0.032186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001048 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/open.png
+  artifactKey: Guid(8f35cbea6c6eb4da0ba1ff936ad4b4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/open.png using Guid(8f35cbea6c6eb4da0ba1ff936ad4b4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ea75777682413fbb5c0131a1df72e2') in 0.011891 seconds
+  Import took 0.020909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192456 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/next.png
+  artifactKey: Guid(9f78066c96d3f4bd4acec28e315999cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/next.png using Guid(9f78066c96d3f4bd4acec28e315999cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a480425f79fb0748820b0c24d6d993cf') in 0.014357 seconds
+  Import took 0.030601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/next.png
+  artifactKey: Guid(9f78066c96d3f4bd4acec28e315999cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/next.png using Guid(9f78066c96d3f4bd4acec28e315999cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a480425f79fb0748820b0c24d6d993cf') in 0.012140 seconds
+  Import took 0.022580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.349599 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/musicOn.png
+  artifactKey: Guid(acad3f35c06064d47ae00b130ab9e261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/musicOn.png using Guid(acad3f35c06064d47ae00b130ab9e261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a144bb2294ff8d56c3b8c24596965e') in 0.018712 seconds
+  Import took 0.032125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.296181 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/musicOff.png
+  artifactKey: Guid(5c39035a4aba74c6da1b91cbb721ec53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/musicOff.png using Guid(5c39035a4aba74c6da1b91cbb721ec53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361ade2381d8c79d7bc2bd1e9c1a4c66') in 0.011723 seconds
+  Import took 0.027614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.479736 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/multiplayer.png
+  artifactKey: Guid(d55db280487c3451fa4daed9747e67e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/multiplayer.png using Guid(d55db280487c3451fa4daed9747e67e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04ca75dc5567283a36cebf7f493a313') in 0.022569 seconds
+  Import took 0.040977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002900 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/multiplayer.png
+  artifactKey: Guid(d55db280487c3451fa4daed9747e67e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/multiplayer.png using Guid(d55db280487c3451fa4daed9747e67e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04ca75dc5567283a36cebf7f493a313') in 0.011449 seconds
+  Import took 0.020249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213190 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/mouse.png
+  artifactKey: Guid(5ffc51d78328344fdb6e90a80cd8423a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/mouse.png using Guid(5ffc51d78328344fdb6e90a80cd8423a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6574c13c4d8fce8dcc6f9cc1f41a49c4') in 0.016970 seconds
+  Import took 0.034002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.241051 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/minus.png
+  artifactKey: Guid(6514fbd72c95640e895f814e885e9e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/minus.png using Guid(6514fbd72c95640e895f814e885e9e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2877392a0875d02271c11475c503db63') in 0.014135 seconds
+  Import took 0.028735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001702 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/minus.png
+  artifactKey: Guid(6514fbd72c95640e895f814e885e9e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/minus.png using Guid(6514fbd72c95640e895f814e885e9e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2877392a0875d02271c11475c503db63') in 0.013170 seconds
+  Import took 0.027991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.250485 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/menuList.png
+  artifactKey: Guid(1dafc884508ff4c6581188f5ce29fe53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/menuList.png using Guid(1dafc884508ff4c6581188f5ce29fe53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da379719bae984e62d4c883b3c78fd8') in 0.016916 seconds
+  Import took 0.026783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.258221 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/menuGrid.png
+  artifactKey: Guid(4374e09df786543e3844e43a10afdcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/menuGrid.png using Guid(4374e09df786543e3844e43a10afdcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca14c4da35528924ff75294ea43926b0') in 0.018006 seconds
+  Import took 0.031868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002062 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/menuGrid.png
+  artifactKey: Guid(4374e09df786543e3844e43a10afdcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/menuGrid.png using Guid(4374e09df786543e3844e43a10afdcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca14c4da35528924ff75294ea43926b0') in 0.009845 seconds
+  Import took 0.023684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.305163 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/medal2.png
+  artifactKey: Guid(38f02716961b04af0a3afd820b11c237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/medal2.png using Guid(38f02716961b04af0a3afd820b11c237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01facc19f845df28ab5c5c43b8ab1da') in 0.016038 seconds
+  Import took 0.030022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.500069 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/medal1.png
+  artifactKey: Guid(76b367092faba465b9a287c61db294c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/medal1.png using Guid(76b367092faba465b9a287c61db294c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f83e2cd20f2bc68462a634c65d46c4') in 0.013307 seconds
+  Import took 0.028391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002168 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/medal1.png
+  artifactKey: Guid(76b367092faba465b9a287c61db294c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/medal1.png using Guid(76b367092faba465b9a287c61db294c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f83e2cd20f2bc68462a634c65d46c4') in 0.011776 seconds
+  Import took 0.021614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.231746 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/massiveMultiplayer.png
+  artifactKey: Guid(ec1732977749a4f56b76c913056038be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/massiveMultiplayer.png using Guid(ec1732977749a4f56b76c913056038be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ac8559ff040c4c2998e1541849d77a') in 0.016046 seconds
+  Import took 0.029788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/massiveMultiplayer.png
+  artifactKey: Guid(ec1732977749a4f56b76c913056038be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/massiveMultiplayer.png using Guid(ec1732977749a4f56b76c913056038be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ac8559ff040c4c2998e1541849d77a') in 0.012939 seconds
+  Import took 0.023681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.445001 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/locked.png
+  artifactKey: Guid(ea0b64bf4eacc42308eeb469ea4e1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/locked.png using Guid(ea0b64bf4eacc42308eeb469ea4e1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094b188f48d7737aa41ea9a780e342ca') in 0.014279 seconds
+  Import took 0.029524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001815 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/locked.png
+  artifactKey: Guid(ea0b64bf4eacc42308eeb469ea4e1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/locked.png using Guid(ea0b64bf4eacc42308eeb469ea4e1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094b188f48d7737aa41ea9a780e342ca') in 0.018614 seconds
+  Import took 0.034793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111050 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/leaderboardsComplex.png
+  artifactKey: Guid(32da226f1774d43aeb9c6b590e78a6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/leaderboardsComplex.png using Guid(32da226f1774d43aeb9c6b590e78a6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df2e26fd2c22cfd6df8ae5c4ee9df63') in 0.011899 seconds
+  Import took 0.027257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.359610 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/larger.png
+  artifactKey: Guid(2f9c5a34ff5b3460a92e277f1c87ad7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/larger.png using Guid(2f9c5a34ff5b3460a92e277f1c87ad7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c33a762b5f9dfd37a6124102576289b') in 0.018532 seconds
+  Import took 0.032226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001144 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/larger.png
+  artifactKey: Guid(2f9c5a34ff5b3460a92e277f1c87ad7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/larger.png using Guid(2f9c5a34ff5b3460a92e277f1c87ad7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c33a762b5f9dfd37a6124102576289b') in 0.012502 seconds
+  Import took 0.022979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.351671 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/joystickUp.png
+  artifactKey: Guid(f98b82aee11fc4a2aaf73f1f9b3ffa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/joystickUp.png using Guid(f98b82aee11fc4a2aaf73f1f9b3ffa15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436c626d5f2f029f5ef5fef26cf4a576') in 0.014949 seconds
+  Import took 0.027713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.418822 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/joystickRight.png
+  artifactKey: Guid(7595ea8478ec44b0397b71182f3a6fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/joystickRight.png using Guid(7595ea8478ec44b0397b71182f3a6fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2413a9199ea25108a7763d1ff3cdc369') in 0.014943 seconds
+  Import took 0.028538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.459425 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/joystickLeft.png
+  artifactKey: Guid(15d839a93b22f42078dde685d50e1ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/joystickLeft.png using Guid(15d839a93b22f42078dde685d50e1ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34167331afbe2d67a8d2e5295548568b') in 0.014390 seconds
+  Import took 0.026045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.426256 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/joystick.png
+  artifactKey: Guid(3ae2a29fa79494a9d8a5f5cfa3bc8332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/joystick.png using Guid(3ae2a29fa79494a9d8a5f5cfa3bc8332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c7c196b6bb70f4ae0270aaef715099') in 0.016308 seconds
+  Import took 0.026602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.301625 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/information.png
+  artifactKey: Guid(bce41d7999c094b0c8249b953273329b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/information.png using Guid(bce41d7999c094b0c8249b953273329b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bd30f9541da708913e1e5754205415') in 0.020258 seconds
+  Import took 0.031285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.290839 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/import.png
+  artifactKey: Guid(ba2bc87e9d87045cf977379f5dbdeef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/import.png using Guid(ba2bc87e9d87045cf977379f5dbdeef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5162dc9c859d70d21af93d1cb05aaef8') in 0.014824 seconds
+  Import took 0.028958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001628 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/import.png
+  artifactKey: Guid(ba2bc87e9d87045cf977379f5dbdeef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/import.png using Guid(ba2bc87e9d87045cf977379f5dbdeef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5162dc9c859d70d21af93d1cb05aaef8') in 0.010351 seconds
+  Import took 0.023955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.256257 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/home.png
+  artifactKey: Guid(855d8dc30d19c44b887a91497eb6dd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/home.png using Guid(855d8dc30d19c44b887a91497eb6dd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fdedd6cdff98e5e9df62e60b6d318f') in 0.014780 seconds
+  Import took 0.026992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.454398 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gear.png
+  artifactKey: Guid(4ce84f0d128294b3496e2c2f79eb2793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gear.png using Guid(4ce84f0d128294b3496e2c2f79eb2793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de44c7dbf5f5d043df9ddb6dcfd4df9') in 0.013637 seconds
+  Import took 0.028619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001691 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gear.png
+  artifactKey: Guid(4ce84f0d128294b3496e2c2f79eb2793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gear.png using Guid(4ce84f0d128294b3496e2c2f79eb2793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de44c7dbf5f5d043df9ddb6dcfd4df9') in 0.011684 seconds
+  Import took 0.030424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286086 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad4.png
+  artifactKey: Guid(29a30dee1cfc8466884f87ea9274f6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad4.png using Guid(29a30dee1cfc8466884f87ea9274f6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0274f3ab344b3ff35cde270f6cc87ded') in 0.014639 seconds
+  Import took 0.029882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.216340 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad3.png
+  artifactKey: Guid(ff7009c6a095048ea960374feb7a9be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad3.png using Guid(ff7009c6a095048ea960374feb7a9be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd025dddfc9ee5836f6b6ea8f9c19652e') in 0.012883 seconds
+  Import took 0.025700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206906 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad2.png
+  artifactKey: Guid(5cd7c71dd425c4716aab79ff0c5389d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad2.png using Guid(5cd7c71dd425c4716aab79ff0c5389d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36731d986657a12dfe35a187026d43c9') in 0.019681 seconds
+  Import took 0.036651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001125 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad2.png
+  artifactKey: Guid(5cd7c71dd425c4716aab79ff0c5389d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad2.png using Guid(5cd7c71dd425c4716aab79ff0c5389d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36731d986657a12dfe35a187026d43c9') in 0.012486 seconds
+  Import took 0.023177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.190727 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad1.png
+  artifactKey: Guid(12b5cc29ba18a4aaa9c6b875172f92ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad1.png using Guid(12b5cc29ba18a4aaa9c6b875172f92ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae14fb30ebfba62e43c0b2c502c4223c') in 0.013166 seconds
+  Import took 0.027830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001657 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad1.png
+  artifactKey: Guid(12b5cc29ba18a4aaa9c6b875172f92ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad1.png using Guid(12b5cc29ba18a4aaa9c6b875172f92ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae14fb30ebfba62e43c0b2c502c4223c') in 0.009520 seconds
+  Import took 0.030078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.193185 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad.png
+  artifactKey: Guid(5162d5876e26b44599122619a402d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad.png using Guid(5162d5876e26b44599122619a402d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97cb31a7852ffd5af537ff965c43a747') in 0.016041 seconds
+  Import took 0.031103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000968 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/gamepad.png
+  artifactKey: Guid(5162d5876e26b44599122619a402d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/gamepad.png using Guid(5162d5876e26b44599122619a402d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97cb31a7852ffd5af537ff965c43a747') in 0.009075 seconds
+  Import took 0.022430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198915 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/forward.png
+  artifactKey: Guid(7ef860ece6ae54b86b431f7da86d67ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/forward.png using Guid(7ef860ece6ae54b86b431f7da86d67ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd384b4c20074a1bceaec8fd3908b3ad6') in 0.016986 seconds
+  Import took 0.030416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001061 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/forward.png
+  artifactKey: Guid(7ef860ece6ae54b86b431f7da86d67ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/forward.png using Guid(7ef860ece6ae54b86b431f7da86d67ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd384b4c20074a1bceaec8fd3908b3ad6') in 0.013133 seconds
+  Import took 0.022878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202163 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/film.png
+  artifactKey: Guid(f534b97137bd64c1183a265aba91ec7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/film.png using Guid(f534b97137bd64c1183a265aba91ec7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d5accf74c192827aa391d225d7598b') in 0.023217 seconds
+  Import took 0.034780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.205431 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/fastForward.png
+  artifactKey: Guid(57f0b4f190a024b4e9d7320f34d6cd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/fastForward.png using Guid(57f0b4f190a024b4e9d7320f34d6cd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37194d0a8c5055e2dc9c38b232a587f4') in 0.015070 seconds
+  Import took 0.028078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.509756 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/exitRight.png
+  artifactKey: Guid(2b5378bd41eb9456087e0f1724dac2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/exitRight.png using Guid(2b5378bd41eb9456087e0f1724dac2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df0a2f1cf8fe91b63155cfcb007ff02') in 0.016446 seconds
+  Import took 0.028721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.199258 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/exitLeft.png
+  artifactKey: Guid(fc09f9372ac14498ba895f39bda6b8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/exitLeft.png using Guid(fc09f9372ac14498ba895f39bda6b8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88fe0af6d789e967d4326169562390f') in 0.016618 seconds
+  Import took 0.031674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.224116 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/exclamation.png
+  artifactKey: Guid(ea1a44fff1ac646f89b8d000304da43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/exclamation.png using Guid(ea1a44fff1ac646f89b8d000304da43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28c6983d82e498852581f795563fd59') in 0.012696 seconds
+  Import took 0.024919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.470305 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/downRight.png
+  artifactKey: Guid(f8fbde6f09fb84178b4b26acd0175811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/downRight.png using Guid(f8fbde6f09fb84178b4b26acd0175811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4500cbeb79d799fea44eb92a9b607bd1') in 0.014224 seconds
+  Import took 0.029889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002105 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/downRight.png
+  artifactKey: Guid(f8fbde6f09fb84178b4b26acd0175811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/downRight.png using Guid(f8fbde6f09fb84178b4b26acd0175811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4500cbeb79d799fea44eb92a9b607bd1') in 0.010269 seconds
+  Import took 0.032931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092125 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/downLeft.png
+  artifactKey: Guid(3d7c7d0f78213477a85131240a13c877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/downLeft.png using Guid(3d7c7d0f78213477a85131240a13c877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c020c4554495a242b521c138a49622a') in 0.016471 seconds
+  Import took 0.033789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001486 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/downLeft.png
+  artifactKey: Guid(3d7c7d0f78213477a85131240a13c877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/downLeft.png using Guid(3d7c7d0f78213477a85131240a13c877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c020c4554495a242b521c138a49622a') in 0.017566 seconds
+  Import took 0.026912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092952 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/door.png
+  artifactKey: Guid(845a6457de896450a94c91c33bd4cbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/door.png using Guid(845a6457de896450a94c91c33bd4cbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ad7849f18c3f618b026aed3f4cfbed') in 0.015049 seconds
+  Import took 0.027260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103205 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/cross.png
+  artifactKey: Guid(a5293375cfa5f4475a6e47d19f482113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/cross.png using Guid(a5293375cfa5f4475a6e47d19f482113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1881279af7a8bc3bbc1737803658d22e') in 0.019718 seconds
+  Import took 0.035902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047885 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/checkmark.png
+  artifactKey: Guid(3c8d8e72c2c80483ca7dc9bd1a01d6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/checkmark.png using Guid(3c8d8e72c2c80483ca7dc9bd1a01d6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3a5b834061d54ebeac3ae3298fa6cb') in 0.013766 seconds
+  Import took 0.027438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.359645 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/basket.png
+  artifactKey: Guid(e07dfe87dc4cb44a7ab5f62483d70f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/basket.png using Guid(e07dfe87dc4cb44a7ab5f62483d70f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463c3117d23d9b96e9e096a2a49b62ef') in 0.016543 seconds
+  Import took 0.031298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001450 seconds.
+  path: Assets/Graphics/gameicons/PNG/Black/1x/basket.png
+  artifactKey: Guid(e07dfe87dc4cb44a7ab5f62483d70f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/gameicons/PNG/Black/1x/basket.png using Guid(e07dfe87dc4cb44a7ab5f62483d70f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463c3117d23d9b96e9e096a2a49b62ef') in 0.010027 seconds
+  Import took 0.023198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.335587 seconds.
+  path: Assets/Build Assets (Contains Logos, etc.)/Credits
+  artifactKey: Guid(4a419a405f6a74b1794db9ffa2b83be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Build Assets (Contains Logos, etc.)/Credits using Guid(4a419a405f6a74b1794db9ffa2b83be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8c2b29fd666cafae0a03189accaf03') in 0.009827 seconds
+  Import took 0.083794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.391890 seconds.
+  path: Assets/Build Assets (Contains Logos, etc.)/Credits/580b57fcd9996e24bc43c545.png
+  artifactKey: Guid(f227ee27ecfef4c5283d1e50d386e286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Build Assets (Contains Logos, etc.)/Credits/580b57fcd9996e24bc43c545.png using Guid(f227ee27ecfef4c5283d1e50d386e286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613ddaceca9d852be81bebb6757b76cb') in 0.152506 seconds
+  Import took 0.172505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.053328 seconds.
+  path: Assets/Build Assets (Contains Logos, etc.)/Credits/580b57fcd9996e24bc43c545.png
+  artifactKey: Guid(f227ee27ecfef4c5283d1e50d386e286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Build Assets (Contains Logos, etc.)/Credits/580b57fcd9996e24bc43c545.png using Guid(f227ee27ecfef4c5283d1e50d386e286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ca902e1ac660f8946e2101cc7653a0') in 0.072456 seconds
+  Import took 0.086384 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005636 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 154.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.769 seconds
+Registering precompiled user dll's ...
+Registered in 0.302679 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.791 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.1 MB.
+System memory in use after: 148.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3294.
+Total: 14.681641 ms (FindLiveObjects: 2.278572 ms CreateObjectMapping: 0.252868 ms MarkObjects: 11.703935 ms  DeleteObjects: 0.442121 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.010814 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 579.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.205 seconds
+Registering precompiled user dll's ...
+Registered in 0.233754 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.354 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.1 MB.
+System memory in use after: 151.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3298.
+Total: 6.839822 ms (FindLiveObjects: 1.340042 ms CreateObjectMapping: 0.578550 ms MarkObjects: 4.747105 ms  DeleteObjects: 0.168683 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.018581 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 119.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.047 seconds
+Registering precompiled user dll's ...
+Registered in 1.130064 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.908 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.0 MB.
+System memory in use after: 154.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3302.
+Total: 6.132245 ms (FindLiveObjects: 1.114993 ms CreateObjectMapping: 0.304097 ms MarkObjects: 4.504020 ms  DeleteObjects: 0.205737 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.009244 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 416.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.115 seconds
+Registering precompiled user dll's ...
+Registered in 1.141989 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.057 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.1 MB.
+System memory in use after: 157.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3306.
+Total: 13.291127 ms (FindLiveObjects: 1.184903 ms CreateObjectMapping: 0.907437 ms MarkObjects: 10.946960 ms  DeleteObjects: 0.247512 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 604.806126 seconds.
+  path: Assets/Scenes/Normal Mode/Level 01.unity
+  artifactKey: Guid(443f63dbd28e748a2885512142e286b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 01.unity using Guid(443f63dbd28e748a2885512142e286b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1e98fda0139973ed08d4891699d485') in 0.073302 seconds
+  Import took 0.141805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.703614 seconds.
+  path: Assets/Scenes/Normal Mode/Level 02.unity
+  artifactKey: Guid(f2846b3e0502d4f7786e49851908deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 02.unity using Guid(f2846b3e0502d4f7786e49851908deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67167dee2974904fbd3605989c1e99fa') in 0.004923 seconds
+  Import took 0.030837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.987451 seconds.
+  path: Assets/Scenes/Normal Mode/Level 03.unity
+  artifactKey: Guid(07ad0c9d0140f4d59bfbffcedece71f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 03.unity using Guid(07ad0c9d0140f4d59bfbffcedece71f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b294290d20f54859fce9942a20ff9ec4') in 0.008232 seconds
+  Import took 0.026968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.202638 seconds.
+  path: Assets/Scenes/Normal Mode/Level 01.unity
+  artifactKey: Guid(443f63dbd28e748a2885512142e286b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 01.unity using Guid(443f63dbd28e748a2885512142e286b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf9c85da43614102a22c3cc0456a0b3') in 0.009212 seconds
+  Import took 0.023371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.217100 seconds.
+  path: Assets/Scenes/Normal Mode/Level 02.unity
+  artifactKey: Guid(f2846b3e0502d4f7786e49851908deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 02.unity using Guid(f2846b3e0502d4f7786e49851908deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af131171df4ac15f8b2852e085fe17a3') in 0.003712 seconds
+  Import took 0.026381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.463040 seconds.
+  path: Assets/Scenes/Hard Mode/Level 01.unity
+  artifactKey: Guid(43cf8511f62fe49b58716676afdd0600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Hard Mode/Level 01.unity using Guid(43cf8511f62fe49b58716676afdd0600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e9856a019e45dec1a51c0671068c0f') in 0.004532 seconds
+  Import took 0.019780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.858436 seconds.
+  path: Assets/Scenes/Hard Mode/Level 05.unity
+  artifactKey: Guid(84485cd5720144f87bf61429784b1e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Hard Mode/Level 05.unity using Guid(84485cd5720144f87bf61429784b1e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d6020f4d554f19c92b9837a42c155a') in 0.004430 seconds
+  Import took 0.019933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 217.151336 seconds.
+  path: Assets/Scenes/Normal Mode/Level 06.unity
+  artifactKey: Guid(eeb454143a0cd4be695b389e957d5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 06.unity using Guid(eeb454143a0cd4be695b389e957d5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54089a6b86c72c9352c0230dd1f67b1b') in 0.024301 seconds
+  Import took 0.088486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1483.003483 seconds.
+  path: Assets/Scenes/Normal Mode/Level 06.unity
+  artifactKey: Guid(eeb454143a0cd4be695b389e957d5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 06.unity using Guid(eeb454143a0cd4be695b389e957d5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd9957c17e34e5cf6ddb739c6edbee2') in 0.044039 seconds
+  Import took 0.114997 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.003698 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 139.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.914 seconds
+Registering precompiled user dll's ...
+Registered in 0.237995 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.281 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.1 MB.
+System memory in use after: 160.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3310.
+Total: 6.360165 ms (FindLiveObjects: 1.135585 ms CreateObjectMapping: 0.310318 ms MarkObjects: 4.686415 ms  DeleteObjects: 0.223975 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.023594 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 96.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.504 seconds
+Registering precompiled user dll's ...
+Registered in 1.012331 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.955 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.1 MB.
+System memory in use after: 163.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 5.379697 ms (FindLiveObjects: 0.924380 ms CreateObjectMapping: 0.299407 ms MarkObjects: 3.955190 ms  DeleteObjects: 0.197370 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.103782 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 209.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.382 seconds
+Registering precompiled user dll's ...
+Registered in 0.271869 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.648 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165.9 MB.
+System memory in use after: 166.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3318.
+Total: 4.237047 ms (FindLiveObjects: 0.830640 ms CreateObjectMapping: 0.212613 ms MarkObjects: 2.965849 ms  DeleteObjects: 0.224499 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.015762 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 105.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.818 seconds
+Registering precompiled user dll's ...
+Registered in 1.099199 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.146 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.1 MB.
+System memory in use after: 168.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3322.
+Total: 6.479998 ms (FindLiveObjects: 1.097305 ms CreateObjectMapping: 0.302190 ms MarkObjects: 4.856780 ms  DeleteObjects: 0.194710 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.023693 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1030.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 18.534 seconds
+Registering precompiled user dll's ...
+Registered in 1.528611 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.993 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.0 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3326.
+Total: 7.706602 ms (FindLiveObjects: 1.862311 ms CreateObjectMapping: 0.358371 ms MarkObjects: 5.265034 ms  DeleteObjects: 0.217648 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 658.285694 seconds.
+  path: Assets/Scenes/Normal Mode/Level 06.unity
+  artifactKey: Guid(eeb454143a0cd4be695b389e957d5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 06.unity using Guid(eeb454143a0cd4be695b389e957d5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18feb88c8b9a8df9d1aad62a0d12d9f') in 0.090762 seconds
+  Import took 0.170985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.185470 seconds.
+  path: Assets/Scenes/Normal Mode/Level 07.unity
+  artifactKey: Guid(7050f4fe1f6114aefb8da33355357cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 07.unity using Guid(7050f4fe1f6114aefb8da33355357cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eeb1132dff7b1d15a630432846f9c7') in 0.015746 seconds
+  Import took 0.043778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 289.083894 seconds.
+  path: Assets/Scenes/Normal Mode/Level 07.unity
+  artifactKey: Guid(7050f4fe1f6114aefb8da33355357cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 07.unity using Guid(7050f4fe1f6114aefb8da33355357cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b151074a462b163ac0713bf4afa42b') in 0.019929 seconds
+  Import took 0.112827 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.022598 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 179.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.954 seconds
+Registering precompiled user dll's ...
+Registered in 0.945737 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.040 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.0 MB.
+System memory in use after: 174.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3330.
+Total: 5.023237 ms (FindLiveObjects: 1.000777 ms CreateObjectMapping: 0.299895 ms MarkObjects: 3.560123 ms  DeleteObjects: 0.157172 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.024393 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 150.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.814 seconds
+Registering precompiled user dll's ...
+Registered in 0.354454 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.940 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.0 MB.
+System memory in use after: 176.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 4.477590 ms (FindLiveObjects: 0.835710 ms CreateObjectMapping: 0.241210 ms MarkObjects: 3.265701 ms  DeleteObjects: 0.131980 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.014556 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 140.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.843 seconds
+Registering precompiled user dll's ...
+Registered in 0.208688 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.681 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.0 MB.
+System memory in use after: 179.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3338.
+Total: 4.067688 ms (FindLiveObjects: 0.756657 ms CreateObjectMapping: 0.194680 ms MarkObjects: 2.967524 ms  DeleteObjects: 0.145409 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.009283 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 103.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.328 seconds
+Registering precompiled user dll's ...
+Registered in 1.078570 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.580 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 182.0 MB.
+System memory in use after: 182.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3342.
+Total: 4.768902 ms (FindLiveObjects: 1.082617 ms CreateObjectMapping: 0.293284 ms MarkObjects: 3.250477 ms  DeleteObjects: 0.139755 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.010812 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 130.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.962 seconds
+Registering precompiled user dll's ...
+Registered in 1.018289 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.756 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.9 MB.
+System memory in use after: 185.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3346.
+Total: 5.082663 ms (FindLiveObjects: 1.168925 ms CreateObjectMapping: 0.268753 ms MarkObjects: 3.500066 ms  DeleteObjects: 0.141518 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.020701 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 121.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.758 seconds
+Registering precompiled user dll's ...
+Registered in 0.199036 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.963 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.0 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3350.
+Total: 6.135020 ms (FindLiveObjects: 0.877815 ms CreateObjectMapping: 0.294675 ms MarkObjects: 4.784028 ms  DeleteObjects: 0.172517 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1751.737022 seconds.
+  path: Assets/Scenes/Normal Mode/Level 08.unity
+  artifactKey: Guid(807e46a14b04b438daca1255ab176dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Normal Mode/Level 08.unity using Guid(807e46a14b04b438daca1255ab176dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0162c6f14ccbe12566dadee0fb2b5164') in 0.022647 seconds
+  Import took 0.036874 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 13.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.4 MB.
+System memory in use after: 187.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3350.
+Total: 90.696866 ms (FindLiveObjects: 3.765848 ms CreateObjectMapping: 0.344861 ms MarkObjects: 86.309013 ms  DeleteObjects: 0.273594 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 32.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.5 MB.
+System memory in use after: 192.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3350.
+Total: 71.211743 ms (FindLiveObjects: 3.400070 ms CreateObjectMapping: 0.555200 ms MarkObjects: 66.524781 ms  DeleteObjects: 0.727821 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0b2/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005212 seconds.
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 123.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.358 seconds
+Registering precompiled user dll's ...
+Registered in 0.234845 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Cubby/Documents/Living in Code/Full Releases/Bouncy Bullets Project/Bouncy-Bullets/Bouncy Bullets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.316 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.0 MB.
+System memory in use after: 195.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3354.
+Total: 27.754379 ms (FindLiveObjects: 4.144819 ms CreateObjectMapping: 0.541894 ms MarkObjects: 19.164635 ms  DeleteObjects: 3.899621 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 41.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.0 MB.
+System memory in use after: 195.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3354.
+Total: 6.179994 ms (FindLiveObjects: 0.901512 ms CreateObjectMapping: 0.400005 ms MarkObjects: 4.687740 ms  DeleteObjects: 0.186123 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 12.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.0 MB.
+System memory in use after: 195.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3354.
+Total: 32.193404 ms (FindLiveObjects: 2.027865 ms CreateObjectMapping: 0.328668 ms MarkObjects: 29.624055 ms  DeleteObjects: 0.209524 ms)
+
