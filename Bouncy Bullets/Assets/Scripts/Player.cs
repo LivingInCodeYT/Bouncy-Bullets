@@ -1,10 +1,12 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(AudioSource))]
 public class Player : MonoBehaviour {
     private GameManager gM;
     private Rigidbody2D rb;
     private Vector3 movement;
+    private AudioSource deathSound;
 
 	public float moveSpeed = 5f;
     [Header("Boundaries")]
@@ -12,6 +14,7 @@ public class Player : MonoBehaviour {
     public float minY, maxY;
 
     void Awake() {
+        deathSound = GetComponent<AudioSource>();
         gM = GameObject.FindGameObjectWithTag(Tags.Manager).GetComponent<GameManager>();
         rb = GetComponent<Rigidbody2D>();
     }
@@ -39,7 +42,9 @@ public class Player : MonoBehaviour {
         }
     }
     void OnCollisionEnter2D(Collision2D other) {
-        if (other.gameObject.CompareTag(Tags.Bullet))
+        if (other.gameObject.CompareTag(Tags.Bullet)) {
             gM.GameOver();
+            deathSound.Play();
+        }
     }
 }
