@@ -9,7 +9,7 @@ public class StartTimer : MonoBehaviour {
         FindObjectOfType<GameManager>().gameIsOver = true;
         timerText = GameObject.FindGameObjectWithTag(Tags.StartTimer).GetComponent<TextMeshProUGUI>();
         timerText.text = "3";
-        InvokeRepeating("DecreaseTime", 0f, 1f);
+        InvokeRepeating("DecreaseTime", 1f, 1f);
     }
     void DecreaseTime() {
         if (time == 1) {
