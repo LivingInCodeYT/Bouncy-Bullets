@@ -13,6 +13,7 @@ public class Timer : MonoBehaviour {
         uiController.SetTimeToSurvive(timeToSurvive);
     }
     void Update() {
+        if (FindObjectOfType<GameManager>().gameIsOver) return;
         if (oneSecond <= 0f) {
             timeToSurvive--;
             oneSecond = 1f;

@@ -14,6 +14,7 @@ public class PowerupSpawner : MonoBehaviour {
         InvokeRepeating("Spawn", spawnEvery + Random.Range(-randomness, randomness), spawnEvery + Random.Range(-randomness, randomness));
     }
     void Spawn() {
+        if (FindObjectOfType<GameManager>().gameIsOver) return;
         if (GameObject.FindGameObjectsWithTag("Powerup").Length < maxPowerupsInPlaySpace) {
             int rand = Random.Range(0, powerups.Length);
             float x = Random.Range(minX, maxX);
