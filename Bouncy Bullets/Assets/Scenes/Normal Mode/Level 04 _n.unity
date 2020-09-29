@@ -147,6 +147,10 @@ PrefabInstance:
       propertyPath: random
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7381304684329730240, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
+      propertyPath: fireEvery
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 7381304684329730241, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -224,6 +228,10 @@ PrefabInstance:
       propertyPath: random
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7381304684329730240, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
+      propertyPath: fireEvery
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 7381304684329730241, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
       propertyPath: m_SortingOrder
       value: 2
@@ -300,6 +308,10 @@ PrefabInstance:
     - target: {fileID: 7381304684329730240, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
       propertyPath: random
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381304684329730240, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
+      propertyPath: fireEvery
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7381304684329730241, guid: 72d5172689253431fa3f67bf8ea19399, type: 3}
       propertyPath: m_SortingOrder
